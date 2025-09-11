@@ -232,10 +232,7 @@ SHOW PIPES IN SCHEMA SNOWPIPE_DT_DEMO.STAGE_DATA;
 
 -- Check pipe status after creation
 SELECT 
-    PIPE_NAME,
-    IS_AUTOINGEST_ENABLED,
-    PIPE_STATUS,
-    DEFINITION
+    *
 FROM TABLE(RESULT_SCAN(LAST_QUERY_ID()));
 
 -- =============================================================================

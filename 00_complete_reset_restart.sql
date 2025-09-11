@@ -5,7 +5,7 @@
 -- Use this when you need a clean slate for the Snowpipe -> Streams -> Tasks pipeline
 -- =============================================================================
 
-USE DATABASE SNOWPIPE_DT_DEMO;
+DROP DATABASE SNOWPIPE_DT_DEMO;
 
 SELECT '=== PHASE 1: COMPLETE CLEANUP ===' as PHASE;
 
