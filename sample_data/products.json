@@ -1,0 +1,1002 @@
+[
+  {
+    "PRODUCT_ID": 1,
+    "PRODUCT_NAME": "De-engineered 6thgeneration interface",
+    "CATEGORY": "Sports",
+    "PRICE": 704.79,
+    "SUPPLIER_ID": 22,
+    "RECORD_TIMESTAMP": "2025-08-20T15:50:53.474896",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 2,
+    "PRODUCT_NAME": "Configurable systemic Internet solution",
+    "CATEGORY": "Clothing",
+    "PRICE": 613.03,
+    "SUPPLIER_ID": 6,
+    "RECORD_TIMESTAMP": "2025-08-23T15:50:53.474916",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 3,
+    "PRODUCT_NAME": "Exclusive responsive circuit",
+    "CATEGORY": "Books",
+    "PRICE": 171.76,
+    "SUPPLIER_ID": 13,
+    "RECORD_TIMESTAMP": "2025-09-01T15:50:53.474927",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 4,
+    "PRODUCT_NAME": "Right-sized empowering functionalities",
+    "CATEGORY": "Toys",
+    "PRICE": 227.41,
+    "SUPPLIER_ID": 11,
+    "RECORD_TIMESTAMP": "2025-08-14T15:50:53.474938",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 5,
+    "PRODUCT_NAME": "Upgradable asymmetric array",
+    "CATEGORY": "Electronics",
+    "PRICE": 236.75,
+    "SUPPLIER_ID": 2,
+    "RECORD_TIMESTAMP": "2025-08-15T15:50:53.474950",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 6,
+    "PRODUCT_NAME": "Networked next generation infrastructure",
+    "CATEGORY": "Beauty",
+    "PRICE": 407.14,
+    "SUPPLIER_ID": 3,
+    "RECORD_TIMESTAMP": "2025-09-03T15:50:53.474960",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 7,
+    "PRODUCT_NAME": "Reactive fresh-thinking focus group",
+    "CATEGORY": "Health",
+    "PRICE": 877.59,
+    "SUPPLIER_ID": 11,
+    "RECORD_TIMESTAMP": "2025-09-03T15:50:53.474971",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 8,
+    "PRODUCT_NAME": "Programmable logistical access",
+    "CATEGORY": "Food",
+    "PRICE": 401.67,
+    "SUPPLIER_ID": 21,
+    "RECORD_TIMESTAMP": "2025-08-26T15:50:53.474982",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 9,
+    "PRODUCT_NAME": "Total regional parallelism",
+    "CATEGORY": "Home & Garden",
+    "PRICE": 272.22,
+    "SUPPLIER_ID": 8,
+    "RECORD_TIMESTAMP": "2025-08-17T15:50:53.474992",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 10,
+    "PRODUCT_NAME": "Programmable zero tolerance instruction set",
+    "CATEGORY": "Toys",
+    "PRICE": 543.58,
+    "SUPPLIER_ID": 24,
+    "RECORD_TIMESTAMP": "2025-08-22T15:50:53.475002",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 11,
+    "PRODUCT_NAME": "Customizable intangible collaboration",
+    "CATEGORY": "Automotive",
+    "PRICE": 898.83,
+    "SUPPLIER_ID": 13,
+    "RECORD_TIMESTAMP": "2025-08-29T15:50:53.475015",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 12,
+    "PRODUCT_NAME": "Digitized non-volatile parallelism",
+    "CATEGORY": "Books",
+    "PRICE": 997.34,
+    "SUPPLIER_ID": 5,
+    "RECORD_TIMESTAMP": "2025-08-24T15:50:53.475025",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 13,
+    "PRODUCT_NAME": "Reduced well-modulated attitude",
+    "CATEGORY": "Food",
+    "PRICE": 99.99,
+    "SUPPLIER_ID": 2,
+    "RECORD_TIMESTAMP": "2025-08-13T15:50:53.475036",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 14,
+    "PRODUCT_NAME": "Customer-focused non-volatile time-frame",
+    "CATEGORY": "Clothing",
+    "PRICE": 161.3,
+    "SUPPLIER_ID": 6,
+    "RECORD_TIMESTAMP": "2025-08-15T15:50:53.475051",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 15,
+    "PRODUCT_NAME": "Cross-platform zero tolerance forecast",
+    "CATEGORY": "Automotive",
+    "PRICE": 600.43,
+    "SUPPLIER_ID": 13,
+    "RECORD_TIMESTAMP": "2025-08-28T15:50:53.475061",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 16,
+    "PRODUCT_NAME": "Public-key grid-enabled installation",
+    "CATEGORY": "Health",
+    "PRICE": 996.15,
+    "SUPPLIER_ID": 17,
+    "RECORD_TIMESTAMP": "2025-09-01T15:50:53.475071",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 17,
+    "PRODUCT_NAME": "Fundamental human-resource projection",
+    "CATEGORY": "Toys",
+    "PRICE": 862.16,
+    "SUPPLIER_ID": 1,
+    "RECORD_TIMESTAMP": "2025-08-19T15:50:53.475082",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 18,
+    "PRODUCT_NAME": "Pre-emptive object-oriented portal",
+    "CATEGORY": "Clothing",
+    "PRICE": 684.88,
+    "SUPPLIER_ID": 18,
+    "RECORD_TIMESTAMP": "2025-08-16T15:50:53.475092",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 19,
+    "PRODUCT_NAME": "Phased 5thgeneration conglomeration",
+    "CATEGORY": "Sports",
+    "PRICE": 770.9,
+    "SUPPLIER_ID": 11,
+    "RECORD_TIMESTAMP": "2025-09-06T15:50:53.475102",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 20,
+    "PRODUCT_NAME": "Grass-roots impactful circuit",
+    "CATEGORY": "Sports",
+    "PRICE": 440.41,
+    "SUPPLIER_ID": 15,
+    "RECORD_TIMESTAMP": "2025-09-09T15:50:53.475112",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 21,
+    "PRODUCT_NAME": "Secured real-time software",
+    "CATEGORY": "Sports",
+    "PRICE": 972.16,
+    "SUPPLIER_ID": 25,
+    "RECORD_TIMESTAMP": "2025-09-04T15:50:53.475122",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 22,
+    "PRODUCT_NAME": "Team-oriented impactful alliance",
+    "CATEGORY": "Toys",
+    "PRICE": 913.49,
+    "SUPPLIER_ID": 21,
+    "RECORD_TIMESTAMP": "2025-08-31T15:50:53.475132",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 23,
+    "PRODUCT_NAME": "Object-based full-range solution",
+    "CATEGORY": "Toys",
+    "PRICE": 612.87,
+    "SUPPLIER_ID": 5,
+    "RECORD_TIMESTAMP": "2025-08-29T15:50:53.475142",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 24,
+    "PRODUCT_NAME": "Front-line actuating synergy",
+    "CATEGORY": "Home & Garden",
+    "PRICE": 543.98,
+    "SUPPLIER_ID": 25,
+    "RECORD_TIMESTAMP": "2025-08-11T15:50:53.475152",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 25,
+    "PRODUCT_NAME": "Phased encompassing hub",
+    "CATEGORY": "Toys",
+    "PRICE": 919.3,
+    "SUPPLIER_ID": 20,
+    "RECORD_TIMESTAMP": "2025-08-30T15:50:53.475162",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 26,
+    "PRODUCT_NAME": "Ameliorated global utilization",
+    "CATEGORY": "Food",
+    "PRICE": 29.27,
+    "SUPPLIER_ID": 12,
+    "RECORD_TIMESTAMP": "2025-08-12T15:50:53.475172",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 27,
+    "PRODUCT_NAME": "Innovative fault-tolerant focus group",
+    "CATEGORY": "Sports",
+    "PRICE": 247.05,
+    "SUPPLIER_ID": 8,
+    "RECORD_TIMESTAMP": "2025-08-12T15:50:53.475182",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 28,
+    "PRODUCT_NAME": "Pre-emptive tangible software",
+    "CATEGORY": "Health",
+    "PRICE": 947.47,
+    "SUPPLIER_ID": 3,
+    "RECORD_TIMESTAMP": "2025-08-17T15:50:53.475192",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 29,
+    "PRODUCT_NAME": "Cross-platform discrete challenge",
+    "CATEGORY": "Food",
+    "PRICE": 817.85,
+    "SUPPLIER_ID": 25,
+    "RECORD_TIMESTAMP": "2025-08-23T15:50:53.475202",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 30,
+    "PRODUCT_NAME": "Innovative value-added intranet",
+    "CATEGORY": "Home & Garden",
+    "PRICE": 137.1,
+    "SUPPLIER_ID": 16,
+    "RECORD_TIMESTAMP": "2025-08-23T15:50:53.475212",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 31,
+    "PRODUCT_NAME": "Vision-oriented fresh-thinking flexibility",
+    "CATEGORY": "Home & Garden",
+    "PRICE": 272.4,
+    "SUPPLIER_ID": 20,
+    "RECORD_TIMESTAMP": "2025-08-27T15:50:53.475222",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 32,
+    "PRODUCT_NAME": "Upgradable intangible portal",
+    "CATEGORY": "Books",
+    "PRICE": 929.61,
+    "SUPPLIER_ID": 25,
+    "RECORD_TIMESTAMP": "2025-08-17T15:50:53.475232",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 33,
+    "PRODUCT_NAME": "Stand-alone background core",
+    "CATEGORY": "Books",
+    "PRICE": 715.81,
+    "SUPPLIER_ID": 13,
+    "RECORD_TIMESTAMP": "2025-08-19T15:50:53.475243",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 34,
+    "PRODUCT_NAME": "Organic didactic installation",
+    "CATEGORY": "Beauty",
+    "PRICE": 443.71,
+    "SUPPLIER_ID": 17,
+    "RECORD_TIMESTAMP": "2025-08-26T15:50:53.475253",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 35,
+    "PRODUCT_NAME": "User-centric mobile task-force",
+    "CATEGORY": "Clothing",
+    "PRICE": 255.42,
+    "SUPPLIER_ID": 3,
+    "RECORD_TIMESTAMP": "2025-08-30T15:50:53.475263",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 36,
+    "PRODUCT_NAME": "Programmable holistic approach",
+    "CATEGORY": "Electronics",
+    "PRICE": 592.42,
+    "SUPPLIER_ID": 8,
+    "RECORD_TIMESTAMP": "2025-08-22T15:50:53.475273",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 37,
+    "PRODUCT_NAME": "Profound cohesive architecture",
+    "CATEGORY": "Books",
+    "PRICE": 17.11,
+    "SUPPLIER_ID": 23,
+    "RECORD_TIMESTAMP": "2025-08-20T15:50:53.475283",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 38,
+    "PRODUCT_NAME": "Integrated tertiary middleware",
+    "CATEGORY": "Electronics",
+    "PRICE": 236.64,
+    "SUPPLIER_ID": 2,
+    "RECORD_TIMESTAMP": "2025-08-13T15:50:53.475293",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 39,
+    "PRODUCT_NAME": "Open-architected client-driven time-frame",
+    "CATEGORY": "Beauty",
+    "PRICE": 80.14,
+    "SUPPLIER_ID": 8,
+    "RECORD_TIMESTAMP": "2025-09-01T15:50:53.475303",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 40,
+    "PRODUCT_NAME": "Progressive non-volatile algorithm",
+    "CATEGORY": "Food",
+    "PRICE": 222.08,
+    "SUPPLIER_ID": 5,
+    "RECORD_TIMESTAMP": "2025-08-17T15:50:53.475313",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 41,
+    "PRODUCT_NAME": "Enhanced content-based customer loyalty",
+    "CATEGORY": "Health",
+    "PRICE": 580.44,
+    "SUPPLIER_ID": 8,
+    "RECORD_TIMESTAMP": "2025-08-15T15:50:53.475323",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 42,
+    "PRODUCT_NAME": "Centralized dynamic alliance",
+    "CATEGORY": "Food",
+    "PRICE": 809.41,
+    "SUPPLIER_ID": 7,
+    "RECORD_TIMESTAMP": "2025-09-06T15:50:53.475333",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 43,
+    "PRODUCT_NAME": "Persevering actuating hierarchy",
+    "CATEGORY": "Clothing",
+    "PRICE": 662.38,
+    "SUPPLIER_ID": 12,
+    "RECORD_TIMESTAMP": "2025-08-27T15:50:53.475343",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 44,
+    "PRODUCT_NAME": "Triple-buffered dedicated focus group",
+    "CATEGORY": "Automotive",
+    "PRICE": 472.34,
+    "SUPPLIER_ID": 24,
+    "RECORD_TIMESTAMP": "2025-09-08T15:50:53.475353",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 45,
+    "PRODUCT_NAME": "Multi-layered maximized middleware",
+    "CATEGORY": "Clothing",
+    "PRICE": 70.0,
+    "SUPPLIER_ID": 24,
+    "RECORD_TIMESTAMP": "2025-08-30T15:50:53.475363",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 46,
+    "PRODUCT_NAME": "Object-based scalable capability",
+    "CATEGORY": "Clothing",
+    "PRICE": 256.16,
+    "SUPPLIER_ID": 7,
+    "RECORD_TIMESTAMP": "2025-08-23T15:50:53.475378",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 47,
+    "PRODUCT_NAME": "Synergized 4thgeneration encoding",
+    "CATEGORY": "Food",
+    "PRICE": 148.77,
+    "SUPPLIER_ID": 6,
+    "RECORD_TIMESTAMP": "2025-09-01T15:50:53.475388",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 48,
+    "PRODUCT_NAME": "Multi-layered mobile policy",
+    "CATEGORY": "Food",
+    "PRICE": 257.3,
+    "SUPPLIER_ID": 3,
+    "RECORD_TIMESTAMP": "2025-08-26T15:50:53.475401",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 49,
+    "PRODUCT_NAME": "Organized context-sensitive leverage",
+    "CATEGORY": "Toys",
+    "PRICE": 106.92,
+    "SUPPLIER_ID": 21,
+    "RECORD_TIMESTAMP": "2025-08-23T15:50:53.475412",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 50,
+    "PRODUCT_NAME": "Reverse-engineered neutral hardware",
+    "CATEGORY": "Electronics",
+    "PRICE": 969.3,
+    "SUPPLIER_ID": 25,
+    "RECORD_TIMESTAMP": "2025-08-13T15:50:53.475422",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 51,
+    "PRODUCT_NAME": "Monitored cohesive firmware",
+    "CATEGORY": "Books",
+    "PRICE": 174.64,
+    "SUPPLIER_ID": 16,
+    "RECORD_TIMESTAMP": "2025-08-25T15:50:53.475432",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 52,
+    "PRODUCT_NAME": "User-friendly system-worthy array",
+    "CATEGORY": "Books",
+    "PRICE": 865.99,
+    "SUPPLIER_ID": 2,
+    "RECORD_TIMESTAMP": "2025-09-04T15:50:53.475441",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 53,
+    "PRODUCT_NAME": "Horizontal 4thgeneration info-mediaries",
+    "CATEGORY": "Automotive",
+    "PRICE": 12.12,
+    "SUPPLIER_ID": 13,
+    "RECORD_TIMESTAMP": "2025-09-01T15:50:53.475451",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 54,
+    "PRODUCT_NAME": "Business-focused cohesive orchestration",
+    "CATEGORY": "Food",
+    "PRICE": 292.39,
+    "SUPPLIER_ID": 23,
+    "RECORD_TIMESTAMP": "2025-08-17T15:50:53.475461",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 55,
+    "PRODUCT_NAME": "Vision-oriented didactic definition",
+    "CATEGORY": "Toys",
+    "PRICE": 665.24,
+    "SUPPLIER_ID": 16,
+    "RECORD_TIMESTAMP": "2025-09-05T15:50:53.475471",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 56,
+    "PRODUCT_NAME": "Stand-alone directional service-desk",
+    "CATEGORY": "Books",
+    "PRICE": 303.73,
+    "SUPPLIER_ID": 2,
+    "RECORD_TIMESTAMP": "2025-08-22T15:50:53.475481",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 57,
+    "PRODUCT_NAME": "Expanded encompassing projection",
+    "CATEGORY": "Toys",
+    "PRICE": 70.34,
+    "SUPPLIER_ID": 11,
+    "RECORD_TIMESTAMP": "2025-09-08T15:50:53.475490",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 58,
+    "PRODUCT_NAME": "Open-source multimedia adapter",
+    "CATEGORY": "Electronics",
+    "PRICE": 588.33,
+    "SUPPLIER_ID": 17,
+    "RECORD_TIMESTAMP": "2025-08-11T15:50:53.475500",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 59,
+    "PRODUCT_NAME": "Vision-oriented zero administration software",
+    "CATEGORY": "Toys",
+    "PRICE": 165.85,
+    "SUPPLIER_ID": 17,
+    "RECORD_TIMESTAMP": "2025-09-07T15:50:53.475510",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 60,
+    "PRODUCT_NAME": "Advanced methodical capacity",
+    "CATEGORY": "Home & Garden",
+    "PRICE": 77.83,
+    "SUPPLIER_ID": 3,
+    "RECORD_TIMESTAMP": "2025-08-19T15:50:53.475520",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 61,
+    "PRODUCT_NAME": "Stand-alone context-sensitive policy",
+    "CATEGORY": "Books",
+    "PRICE": 409.73,
+    "SUPPLIER_ID": 19,
+    "RECORD_TIMESTAMP": "2025-09-02T15:50:53.475531",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 62,
+    "PRODUCT_NAME": "Advanced directional extranet",
+    "CATEGORY": "Health",
+    "PRICE": 598.56,
+    "SUPPLIER_ID": 20,
+    "RECORD_TIMESTAMP": "2025-09-07T15:50:53.475541",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 63,
+    "PRODUCT_NAME": "Robust fault-tolerant structure",
+    "CATEGORY": "Automotive",
+    "PRICE": 660.79,
+    "SUPPLIER_ID": 19,
+    "RECORD_TIMESTAMP": "2025-08-24T15:50:53.475551",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 64,
+    "PRODUCT_NAME": "Triple-buffered secondary focus group",
+    "CATEGORY": "Beauty",
+    "PRICE": 935.35,
+    "SUPPLIER_ID": 7,
+    "RECORD_TIMESTAMP": "2025-08-19T15:50:53.475561",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 65,
+    "PRODUCT_NAME": "Optimized homogeneous hardware",
+    "CATEGORY": "Beauty",
+    "PRICE": 246.29,
+    "SUPPLIER_ID": 13,
+    "RECORD_TIMESTAMP": "2025-09-05T15:50:53.475571",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 66,
+    "PRODUCT_NAME": "Persevering eco-centric data-warehouse",
+    "CATEGORY": "Sports",
+    "PRICE": 462.64,
+    "SUPPLIER_ID": 25,
+    "RECORD_TIMESTAMP": "2025-08-11T15:50:53.475582",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 67,
+    "PRODUCT_NAME": "Persistent exuding service-desk",
+    "CATEGORY": "Clothing",
+    "PRICE": 19.21,
+    "SUPPLIER_ID": 20,
+    "RECORD_TIMESTAMP": "2025-08-22T15:50:53.475720",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 68,
+    "PRODUCT_NAME": "Programmable regional infrastructure",
+    "CATEGORY": "Clothing",
+    "PRICE": 82.52,
+    "SUPPLIER_ID": 7,
+    "RECORD_TIMESTAMP": "2025-08-24T15:50:53.475732",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 69,
+    "PRODUCT_NAME": "Reduced bi-directional ability",
+    "CATEGORY": "Sports",
+    "PRICE": 141.12,
+    "SUPPLIER_ID": 12,
+    "RECORD_TIMESTAMP": "2025-08-12T15:50:53.475742",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 70,
+    "PRODUCT_NAME": "Profound stable hub",
+    "CATEGORY": "Clothing",
+    "PRICE": 880.47,
+    "SUPPLIER_ID": 12,
+    "RECORD_TIMESTAMP": "2025-08-31T15:50:53.475752",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 71,
+    "PRODUCT_NAME": "Realigned secondary policy",
+    "CATEGORY": "Home & Garden",
+    "PRICE": 443.79,
+    "SUPPLIER_ID": 18,
+    "RECORD_TIMESTAMP": "2025-08-18T15:50:53.475762",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 72,
+    "PRODUCT_NAME": "Robust executive framework",
+    "CATEGORY": "Sports",
+    "PRICE": 615.55,
+    "SUPPLIER_ID": 21,
+    "RECORD_TIMESTAMP": "2025-08-24T15:50:53.475771",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 73,
+    "PRODUCT_NAME": "Synergized bi-directional matrices",
+    "CATEGORY": "Electronics",
+    "PRICE": 671.17,
+    "SUPPLIER_ID": 18,
+    "RECORD_TIMESTAMP": "2025-08-31T15:50:53.475781",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 74,
+    "PRODUCT_NAME": "Cloned global focus group",
+    "CATEGORY": "Clothing",
+    "PRICE": 939.53,
+    "SUPPLIER_ID": 5,
+    "RECORD_TIMESTAMP": "2025-09-01T15:50:53.475793",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 75,
+    "PRODUCT_NAME": "Sharable fresh-thinking focus group",
+    "CATEGORY": "Clothing",
+    "PRICE": 890.81,
+    "SUPPLIER_ID": 24,
+    "RECORD_TIMESTAMP": "2025-08-23T15:50:53.475803",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 76,
+    "PRODUCT_NAME": "Fundamental solution-oriented structure",
+    "CATEGORY": "Home & Garden",
+    "PRICE": 279.61,
+    "SUPPLIER_ID": 20,
+    "RECORD_TIMESTAMP": "2025-09-03T15:50:53.475813",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 77,
+    "PRODUCT_NAME": "Streamlined exuding core",
+    "CATEGORY": "Beauty",
+    "PRICE": 211.55,
+    "SUPPLIER_ID": 21,
+    "RECORD_TIMESTAMP": "2025-08-13T15:50:53.475824",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 78,
+    "PRODUCT_NAME": "Distributed multi-state task-force",
+    "CATEGORY": "Sports",
+    "PRICE": 510.34,
+    "SUPPLIER_ID": 9,
+    "RECORD_TIMESTAMP": "2025-08-12T15:50:53.475834",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 79,
+    "PRODUCT_NAME": "Front-line analyzing workforce",
+    "CATEGORY": "Electronics",
+    "PRICE": 101.37,
+    "SUPPLIER_ID": 14,
+    "RECORD_TIMESTAMP": "2025-08-14T15:50:53.475845",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 80,
+    "PRODUCT_NAME": "Right-sized impactful protocol",
+    "CATEGORY": "Sports",
+    "PRICE": 53.64,
+    "SUPPLIER_ID": 11,
+    "RECORD_TIMESTAMP": "2025-08-16T15:50:53.475856",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 81,
+    "PRODUCT_NAME": "Intuitive systemic challenge",
+    "CATEGORY": "Home & Garden",
+    "PRICE": 640.73,
+    "SUPPLIER_ID": 9,
+    "RECORD_TIMESTAMP": "2025-09-04T15:50:53.475867",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 82,
+    "PRODUCT_NAME": "Up-sized 4thgeneration projection",
+    "CATEGORY": "Food",
+    "PRICE": 556.15,
+    "SUPPLIER_ID": 14,
+    "RECORD_TIMESTAMP": "2025-08-23T15:50:53.475877",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 83,
+    "PRODUCT_NAME": "Proactive explicit firmware",
+    "CATEGORY": "Electronics",
+    "PRICE": 120.75,
+    "SUPPLIER_ID": 23,
+    "RECORD_TIMESTAMP": "2025-08-12T15:50:53.475887",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 84,
+    "PRODUCT_NAME": "Operative impactful info-mediaries",
+    "CATEGORY": "Home & Garden",
+    "PRICE": 550.12,
+    "SUPPLIER_ID": 12,
+    "RECORD_TIMESTAMP": "2025-08-22T15:50:53.475897",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 85,
+    "PRODUCT_NAME": "User-centric 5thgeneration paradigm",
+    "CATEGORY": "Toys",
+    "PRICE": 156.6,
+    "SUPPLIER_ID": 5,
+    "RECORD_TIMESTAMP": "2025-09-08T15:50:53.475942",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 86,
+    "PRODUCT_NAME": "Triple-buffered object-oriented core",
+    "CATEGORY": "Sports",
+    "PRICE": 371.0,
+    "SUPPLIER_ID": 2,
+    "RECORD_TIMESTAMP": "2025-08-12T15:50:53.475955",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 87,
+    "PRODUCT_NAME": "Mandatory uniform structure",
+    "CATEGORY": "Beauty",
+    "PRICE": 217.97,
+    "SUPPLIER_ID": 8,
+    "RECORD_TIMESTAMP": "2025-08-19T15:50:53.475970",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 88,
+    "PRODUCT_NAME": "Face-to-face systemic monitoring",
+    "CATEGORY": "Clothing",
+    "PRICE": 360.13,
+    "SUPPLIER_ID": 18,
+    "RECORD_TIMESTAMP": "2025-08-12T15:50:53.475980",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 89,
+    "PRODUCT_NAME": "Sharable zero tolerance leverage",
+    "CATEGORY": "Automotive",
+    "PRICE": 974.09,
+    "SUPPLIER_ID": 24,
+    "RECORD_TIMESTAMP": "2025-09-05T15:50:53.475990",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 90,
+    "PRODUCT_NAME": "Synchronized heuristic middleware",
+    "CATEGORY": "Books",
+    "PRICE": 865.95,
+    "SUPPLIER_ID": 6,
+    "RECORD_TIMESTAMP": "2025-08-12T15:50:53.476002",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 91,
+    "PRODUCT_NAME": "Innovative composite protocol",
+    "CATEGORY": "Automotive",
+    "PRICE": 34.53,
+    "SUPPLIER_ID": 24,
+    "RECORD_TIMESTAMP": "2025-08-11T15:50:53.476012",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 92,
+    "PRODUCT_NAME": "Realigned contextually-based frame",
+    "CATEGORY": "Beauty",
+    "PRICE": 784.55,
+    "SUPPLIER_ID": 14,
+    "RECORD_TIMESTAMP": "2025-08-15T15:50:53.476022",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 93,
+    "PRODUCT_NAME": "Cross-platform methodical capacity",
+    "CATEGORY": "Books",
+    "PRICE": 274.13,
+    "SUPPLIER_ID": 23,
+    "RECORD_TIMESTAMP": "2025-09-06T15:50:53.476032",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 94,
+    "PRODUCT_NAME": "User-centric empowering success",
+    "CATEGORY": "Automotive",
+    "PRICE": 873.44,
+    "SUPPLIER_ID": 16,
+    "RECORD_TIMESTAMP": "2025-09-02T15:50:53.476042",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 95,
+    "PRODUCT_NAME": "Realigned well-modulated contingency",
+    "CATEGORY": "Books",
+    "PRICE": 818.41,
+    "SUPPLIER_ID": 15,
+    "RECORD_TIMESTAMP": "2025-08-29T15:50:53.476054",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 96,
+    "PRODUCT_NAME": "Synergized full-range projection",
+    "CATEGORY": "Sports",
+    "PRICE": 822.32,
+    "SUPPLIER_ID": 8,
+    "RECORD_TIMESTAMP": "2025-09-02T15:50:53.476065",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 97,
+    "PRODUCT_NAME": "Cross-group directional help-desk",
+    "CATEGORY": "Electronics",
+    "PRICE": 663.42,
+    "SUPPLIER_ID": 13,
+    "RECORD_TIMESTAMP": "2025-08-30T15:50:53.476074",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 98,
+    "PRODUCT_NAME": "Face-to-face value-added function",
+    "CATEGORY": "Sports",
+    "PRICE": 865.7,
+    "SUPPLIER_ID": 25,
+    "RECORD_TIMESTAMP": "2025-09-01T15:50:53.476093",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 99,
+    "PRODUCT_NAME": "Operative zero tolerance groupware",
+    "CATEGORY": "Beauty",
+    "PRICE": 645.06,
+    "SUPPLIER_ID": 13,
+    "RECORD_TIMESTAMP": "2025-08-19T15:50:53.476103",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 100,
+    "PRODUCT_NAME": "Multi-layered empowering paradigm",
+    "CATEGORY": "Toys",
+    "PRICE": 337.83,
+    "SUPPLIER_ID": 1,
+    "RECORD_TIMESTAMP": "2025-09-06T15:50:53.476114",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  }
+]

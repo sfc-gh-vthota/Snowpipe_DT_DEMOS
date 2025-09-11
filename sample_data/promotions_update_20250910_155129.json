@@ -1,0 +1,202 @@
+[
+  {
+    "PROMOTION_ID": 51,
+    "PROMOTION_NAME": "Down-sized interactive contingency Sale",
+    "DISCOUNT_PERCENTAGE": 38.2,
+    "START_DATE": "2025-06-18",
+    "END_DATE": "2025-10-24",
+    "RECORD_TIMESTAMP": "2025-09-10T15:41:29.709471",
+    "DATA_VERSION": 4,
+    "RECORD_STATUS": "PAUSED"
+  },
+  {
+    "PROMOTION_ID": 96,
+    "PROMOTION_NAME": "Universal dedicated attitude Sale",
+    "DISCOUNT_PERCENTAGE": null,
+    "START_DATE": "2025-07-31",
+    "END_DATE": "2025-10-25",
+    "RECORD_TIMESTAMP": "2025-09-10T15:31:29.709493",
+    "DATA_VERSION": 2,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 66,
+    "PROMOTION_NAME": "Persevering analyzing software Sale",
+    "DISCOUNT_PERCENTAGE": 49.32,
+    "START_DATE": "2025-06-21",
+    "END_DATE": "2026-02-18",
+    "RECORD_TIMESTAMP": "2025-09-10T14:17:29.709515",
+    "DATA_VERSION": 2,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 100,
+    "PROMOTION_NAME": "Synchronized object-oriented model Sale",
+    "DISCOUNT_PERCENTAGE": 32.25,
+    "START_DATE": "2025-07-14",
+    "END_DATE": "2025-12-27",
+    "RECORD_TIMESTAMP": "2025-09-10T15:19:29.709536",
+    "DATA_VERSION": 4,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 87,
+    "PROMOTION_NAME": "Stand-alone static neural-net Sale",
+    "DISCOUNT_PERCENTAGE": 11.89,
+    "START_DATE": "2025-07-24",
+    "END_DATE": "2025-10-11",
+    "RECORD_TIMESTAMP": "2025-09-10T14:51:29.709556",
+    "DATA_VERSION": 2,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 12,
+    "PROMOTION_NAME": "Grass-roots actuating hardware Sale",
+    "DISCOUNT_PERCENTAGE": null,
+    "START_DATE": "2025-06-27",
+    "END_DATE": "2025-10-20",
+    "RECORD_TIMESTAMP": "2025-09-10T14:34:29.709575",
+    "DATA_VERSION": 3,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 72,
+    "PROMOTION_NAME": "Operative intangible software Sale",
+    "DISCOUNT_PERCENTAGE": null,
+    "START_DATE": "2025-07-17",
+    "END_DATE": "2025-12-29",
+    "RECORD_TIMESTAMP": "2025-09-10T15:23:29.709594",
+    "DATA_VERSION": 2,
+    "RECORD_STATUS": "PAUSED"
+  },
+  {
+    "PROMOTION_ID": 17,
+    "PROMOTION_NAME": "Versatile secondary support Sale",
+    "DISCOUNT_PERCENTAGE": null,
+    "START_DATE": "2025-07-09",
+    "END_DATE": "2025-11-20",
+    "RECORD_TIMESTAMP": "2025-09-10T14:52:29.709613",
+    "DATA_VERSION": 3,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 2,
+    "PROMOTION_NAME": "Reduced tertiary alliance Sale",
+    "DISCOUNT_PERCENTAGE": 28.76,
+    "START_DATE": "2025-08-04",
+    "END_DATE": "2026-02-04",
+    "RECORD_TIMESTAMP": "2025-09-10T15:27:29.709633",
+    "DATA_VERSION": 3,
+    "RECORD_STATUS": "EXPIRED"
+  },
+  {
+    "PROMOTION_ID": 45,
+    "PROMOTION_NAME": "Implemented dynamic flexibility Sale",
+    "DISCOUNT_PERCENTAGE": 17.31,
+    "START_DATE": "2025-07-26",
+    "END_DATE": "2026-01-20",
+    "RECORD_TIMESTAMP": "2025-09-10T15:26:29.709653",
+    "DATA_VERSION": 3,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 101,
+    "PROMOTION_NAME": "Operative dynamic access Sale",
+    "DISCOUNT_PERCENTAGE": null,
+    "START_DATE": "2025-06-16",
+    "END_DATE": "2026-02-11",
+    "RECORD_TIMESTAMP": "2025-09-10T14:19:29.709672",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 102,
+    "PROMOTION_NAME": "Distributed radical matrix Sale",
+    "DISCOUNT_PERCENTAGE": null,
+    "START_DATE": "2025-07-15",
+    "END_DATE": "2025-11-28",
+    "RECORD_TIMESTAMP": "2025-09-10T14:29:29.709689",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 103,
+    "PROMOTION_NAME": "Fundamental exuding moderator Sale",
+    "DISCOUNT_PERCENTAGE": 5.85,
+    "START_DATE": "2025-07-18",
+    "END_DATE": "2026-02-19",
+    "RECORD_TIMESTAMP": "2025-09-10T14:24:29.709708",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 104,
+    "PROMOTION_NAME": "Automated multimedia approach Sale",
+    "DISCOUNT_PERCENTAGE": null,
+    "START_DATE": "2025-07-07",
+    "END_DATE": "2025-11-29",
+    "RECORD_TIMESTAMP": "2025-09-10T14:16:29.709725",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 105,
+    "PROMOTION_NAME": "Switchable motivating algorithm Sale",
+    "DISCOUNT_PERCENTAGE": 36.02,
+    "START_DATE": "2025-08-01",
+    "END_DATE": "2025-10-25",
+    "RECORD_TIMESTAMP": "2025-09-10T15:33:29.709743",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 106,
+    "PROMOTION_NAME": "Cross-group client-server leverage Sale",
+    "DISCOUNT_PERCENTAGE": 32.77,
+    "START_DATE": "2025-06-13",
+    "END_DATE": "2025-10-20",
+    "RECORD_TIMESTAMP": "2025-09-10T14:50:29.709762",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 107,
+    "PROMOTION_NAME": "Polarized upward-trending pricing structure Sale",
+    "DISCOUNT_PERCENTAGE": 46.81,
+    "START_DATE": "2025-06-18",
+    "END_DATE": "2025-12-04",
+    "RECORD_TIMESTAMP": "2025-09-10T14:21:29.709780",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 108,
+    "PROMOTION_NAME": "Devolved high-level attitude Sale",
+    "DISCOUNT_PERCENTAGE": 30.23,
+    "START_DATE": "2025-06-30",
+    "END_DATE": "2025-11-11",
+    "RECORD_TIMESTAMP": "2025-09-10T14:23:29.709803",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 109,
+    "PROMOTION_NAME": "Integrated solution-oriented artificial intelligence Sale",
+    "DISCOUNT_PERCENTAGE": 31.9,
+    "START_DATE": "2025-06-29",
+    "END_DATE": "2026-02-19",
+    "RECORD_TIMESTAMP": "2025-09-10T15:26:29.709822",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 110,
+    "PROMOTION_NAME": "Right-sized exuding alliance Sale",
+    "DISCOUNT_PERCENTAGE": null,
+    "START_DATE": "2025-06-26",
+    "END_DATE": "2026-01-21",
+    "RECORD_TIMESTAMP": "2025-09-10T14:11:29.709839",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  }
+]

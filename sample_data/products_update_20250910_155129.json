@@ -1,0 +1,202 @@
+[
+  {
+    "PRODUCT_ID": 5,
+    "PRODUCT_NAME": "Re-contextualized hybrid protocol",
+    "CATEGORY": "Automotive",
+    "PRICE": 245.72,
+    "SUPPLIER_ID": 14,
+    "RECORD_TIMESTAMP": "2025-09-10T15:17:29.683110",
+    "DATA_VERSION": 2,
+    "RECORD_STATUS": "DISCONTINUED"
+  },
+  {
+    "PRODUCT_ID": 76,
+    "PRODUCT_NAME": "Polarized multi-state complexity",
+    "CATEGORY": "Toys",
+    "PRICE": 334.2,
+    "SUPPLIER_ID": 14,
+    "RECORD_TIMESTAMP": "2025-09-10T15:11:29.683169",
+    "DATA_VERSION": 2,
+    "RECORD_STATUS": "DISCONTINUED"
+  },
+  {
+    "PRODUCT_ID": 23,
+    "PRODUCT_NAME": "Networked attitude-oriented matrices",
+    "CATEGORY": "Automotive",
+    "PRICE": 160.01,
+    "SUPPLIER_ID": 3,
+    "RECORD_TIMESTAMP": "2025-09-10T13:56:29.683186",
+    "DATA_VERSION": 4,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 7,
+    "PRODUCT_NAME": "Diverse multi-tasking pricing structure",
+    "CATEGORY": "Automotive",
+    "PRICE": 655.13,
+    "SUPPLIER_ID": 20,
+    "RECORD_TIMESTAMP": "2025-09-10T15:35:29.683200",
+    "DATA_VERSION": 3,
+    "RECORD_STATUS": "DISCONTINUED"
+  },
+  {
+    "PRODUCT_ID": 94,
+    "PRODUCT_NAME": "Decentralized logistical budgetary management",
+    "CATEGORY": "Beauty",
+    "PRICE": 127.51,
+    "SUPPLIER_ID": 20,
+    "RECORD_TIMESTAMP": "2025-09-10T15:33:29.683254",
+    "DATA_VERSION": 4,
+    "RECORD_STATUS": "DISCONTINUED"
+  },
+  {
+    "PRODUCT_ID": 62,
+    "PRODUCT_NAME": "Multi-lateral maximized attitude",
+    "CATEGORY": "Home & Garden",
+    "PRICE": 907.47,
+    "SUPPLIER_ID": 12,
+    "RECORD_TIMESTAMP": "2025-09-10T14:35:29.683273",
+    "DATA_VERSION": 2,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 57,
+    "PRODUCT_NAME": "Grass-roots needs-based extranet",
+    "CATEGORY": "Beauty",
+    "PRICE": 600.6,
+    "SUPPLIER_ID": 13,
+    "RECORD_TIMESTAMP": "2025-09-10T14:15:29.683286",
+    "DATA_VERSION": 4,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 80,
+    "PRODUCT_NAME": "Open-architected bottom-line access",
+    "CATEGORY": "Food",
+    "PRICE": 887.82,
+    "SUPPLIER_ID": 13,
+    "RECORD_TIMESTAMP": "2025-09-10T15:39:29.683299",
+    "DATA_VERSION": 3,
+    "RECORD_STATUS": "DISCONTINUED"
+  },
+  {
+    "PRODUCT_ID": 35,
+    "PRODUCT_NAME": "Integrated mobile project",
+    "CATEGORY": "Books",
+    "PRICE": 194.43,
+    "SUPPLIER_ID": 1,
+    "RECORD_TIMESTAMP": "2025-09-10T14:30:29.683311",
+    "DATA_VERSION": 4,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 87,
+    "PRODUCT_NAME": "Virtual explicit interface",
+    "CATEGORY": "Home & Garden",
+    "PRICE": 55.01,
+    "SUPPLIER_ID": 2,
+    "RECORD_TIMESTAMP": "2025-09-10T14:39:29.683324",
+    "DATA_VERSION": 2,
+    "RECORD_STATUS": "DISCONTINUED"
+  },
+  {
+    "PRODUCT_ID": 101,
+    "PRODUCT_NAME": "Ergonomic non-volatile product",
+    "CATEGORY": "Sports",
+    "PRICE": 849.71,
+    "SUPPLIER_ID": 18,
+    "RECORD_TIMESTAMP": "2025-09-10T14:51:29.683337",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 102,
+    "PRODUCT_NAME": "Quality-focused static contingency",
+    "CATEGORY": "Food",
+    "PRICE": 411.07,
+    "SUPPLIER_ID": 17,
+    "RECORD_TIMESTAMP": "2025-09-10T14:28:29.683348",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 103,
+    "PRODUCT_NAME": "Ameliorated homogeneous model",
+    "CATEGORY": "Automotive",
+    "PRICE": 299.99,
+    "SUPPLIER_ID": 17,
+    "RECORD_TIMESTAMP": "2025-09-10T14:20:29.683359",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 104,
+    "PRODUCT_NAME": "Robust foreground neural-net",
+    "CATEGORY": "Home & Garden",
+    "PRICE": 943.29,
+    "SUPPLIER_ID": 15,
+    "RECORD_TIMESTAMP": "2025-09-10T14:59:29.683370",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 105,
+    "PRODUCT_NAME": "Exclusive static emulation",
+    "CATEGORY": "Beauty",
+    "PRICE": 972.01,
+    "SUPPLIER_ID": 5,
+    "RECORD_TIMESTAMP": "2025-09-10T14:36:29.683381",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 106,
+    "PRODUCT_NAME": "Team-oriented secondary concept",
+    "CATEGORY": "Books",
+    "PRICE": 694.97,
+    "SUPPLIER_ID": 19,
+    "RECORD_TIMESTAMP": "2025-09-10T14:07:29.683391",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 107,
+    "PRODUCT_NAME": "Centralized asymmetric product",
+    "CATEGORY": "Clothing",
+    "PRICE": 668.57,
+    "SUPPLIER_ID": 7,
+    "RECORD_TIMESTAMP": "2025-09-10T13:54:29.683402",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 108,
+    "PRODUCT_NAME": "Balanced reciprocal emulation",
+    "CATEGORY": "Home & Garden",
+    "PRICE": 795.7,
+    "SUPPLIER_ID": 12,
+    "RECORD_TIMESTAMP": "2025-09-10T13:56:29.683413",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 109,
+    "PRODUCT_NAME": "Seamless 6thgeneration initiative",
+    "CATEGORY": "Books",
+    "PRICE": 765.76,
+    "SUPPLIER_ID": 23,
+    "RECORD_TIMESTAMP": "2025-09-10T14:18:29.683424",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PRODUCT_ID": 110,
+    "PRODUCT_NAME": "Expanded didactic product",
+    "CATEGORY": "Sports",
+    "PRICE": 571.1,
+    "SUPPLIER_ID": 11,
+    "RECORD_TIMESTAMP": "2025-09-10T14:06:29.683435",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  }
+]

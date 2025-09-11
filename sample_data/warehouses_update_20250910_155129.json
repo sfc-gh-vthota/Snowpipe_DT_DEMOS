@@ -1,0 +1,202 @@
+[
+  {
+    "WAREHOUSE_ID": 82,
+    "WAREHOUSE_NAME": "Warehouse South Jenniferview 82",
+    "LOCATION": "Boydton, WY",
+    "MANAGER_ID": 42,
+    "CAPACITY": 75219,
+    "RECORD_TIMESTAMP": "2025-09-10T15:16:29.696356",
+    "DATA_VERSION": 2,
+    "RECORD_STATUS": "CLOSED"
+  },
+  {
+    "WAREHOUSE_ID": 26,
+    "WAREHOUSE_NAME": "Warehouse Scottside 26",
+    "LOCATION": "Codyshire, MI",
+    "MANAGER_ID": 58,
+    "CAPACITY": 56721,
+    "RECORD_TIMESTAMP": "2025-09-10T15:38:29.696485",
+    "DATA_VERSION": 4,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 37,
+    "WAREHOUSE_NAME": "Warehouse Carolynbury 37",
+    "LOCATION": "Toddbury, MI",
+    "MANAGER_ID": 72,
+    "CAPACITY": 62523,
+    "RECORD_TIMESTAMP": "2025-09-10T15:04:29.696595",
+    "DATA_VERSION": 4,
+    "RECORD_STATUS": "CLOSED"
+  },
+  {
+    "WAREHOUSE_ID": 51,
+    "WAREHOUSE_NAME": "Warehouse Andersonmouth 51",
+    "LOCATION": "Cochranbury, AR",
+    "MANAGER_ID": 42,
+    "CAPACITY": 62097,
+    "RECORD_TIMESTAMP": "2025-09-10T14:44:29.696741",
+    "DATA_VERSION": 4,
+    "RECORD_STATUS": "MAINTENANCE"
+  },
+  {
+    "WAREHOUSE_ID": 57,
+    "WAREHOUSE_NAME": "Warehouse Edwardland 57",
+    "LOCATION": "North Stevenland, NJ",
+    "MANAGER_ID": 100,
+    "CAPACITY": 44904,
+    "RECORD_TIMESTAMP": "2025-09-10T14:53:29.696846",
+    "DATA_VERSION": 4,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 22,
+    "WAREHOUSE_NAME": "Warehouse Janicechester 22",
+    "LOCATION": "West Andreshire, AS",
+    "MANAGER_ID": 19,
+    "CAPACITY": 99309,
+    "RECORD_TIMESTAMP": "2025-09-10T15:04:29.696951",
+    "DATA_VERSION": 2,
+    "RECORD_STATUS": "MAINTENANCE"
+  },
+  {
+    "WAREHOUSE_ID": 28,
+    "WAREHOUSE_NAME": "Warehouse Anthonyfurt 28",
+    "LOCATION": "Troychester, AK",
+    "MANAGER_ID": 24,
+    "CAPACITY": 29937,
+    "RECORD_TIMESTAMP": "2025-09-10T13:51:29.697050",
+    "DATA_VERSION": 3,
+    "RECORD_STATUS": "CLOSED"
+  },
+  {
+    "WAREHOUSE_ID": 5,
+    "WAREHOUSE_NAME": "Warehouse Kellybury 5",
+    "LOCATION": "Lake Douglas, MN",
+    "MANAGER_ID": 107,
+    "CAPACITY": 19870,
+    "RECORD_TIMESTAMP": "2025-09-10T15:01:29.697156",
+    "DATA_VERSION": 3,
+    "RECORD_STATUS": "MAINTENANCE"
+  },
+  {
+    "WAREHOUSE_ID": 6,
+    "WAREHOUSE_NAME": "Warehouse Shawnborough 6",
+    "LOCATION": "Port Joshua, WV",
+    "MANAGER_ID": 102,
+    "CAPACITY": 19915,
+    "RECORD_TIMESTAMP": "2025-09-10T14:50:29.697257",
+    "DATA_VERSION": 4,
+    "RECORD_STATUS": "CLOSED"
+  },
+  {
+    "WAREHOUSE_ID": 40,
+    "WAREHOUSE_NAME": "Warehouse Solomonburgh 40",
+    "LOCATION": "West Lindsayton, IN",
+    "MANAGER_ID": 68,
+    "CAPACITY": 29414,
+    "RECORD_TIMESTAMP": "2025-09-10T15:10:29.697382",
+    "DATA_VERSION": 4,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 101,
+    "WAREHOUSE_NAME": "Warehouse Lake Annamouth 101",
+    "LOCATION": "Port Chad, VT",
+    "MANAGER_ID": 4,
+    "CAPACITY": 22680,
+    "RECORD_TIMESTAMP": "2025-09-10T15:14:29.697486",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 102,
+    "WAREHOUSE_NAME": "Warehouse East Tyler 102",
+    "LOCATION": "North Codytown, CO",
+    "MANAGER_ID": 66,
+    "CAPACITY": 80080,
+    "RECORD_TIMESTAMP": "2025-09-10T14:09:29.697587",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 103,
+    "WAREHOUSE_NAME": "Warehouse Port Antonio 103",
+    "LOCATION": "Nicolemouth, TN",
+    "MANAGER_ID": 80,
+    "CAPACITY": 21543,
+    "RECORD_TIMESTAMP": "2025-09-10T14:30:29.697690",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 104,
+    "WAREHOUSE_NAME": "Warehouse Robertton 104",
+    "LOCATION": "Lake Michael, NH",
+    "MANAGER_ID": 33,
+    "CAPACITY": 99332,
+    "RECORD_TIMESTAMP": "2025-09-10T14:01:29.697794",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 105,
+    "WAREHOUSE_NAME": "Warehouse Saraside 105",
+    "LOCATION": "Walkerton, VT",
+    "MANAGER_ID": 76,
+    "CAPACITY": 87099,
+    "RECORD_TIMESTAMP": "2025-09-10T15:01:29.697926",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 106,
+    "WAREHOUSE_NAME": "Warehouse Brocktown 106",
+    "LOCATION": "Lake Jennifermouth, HI",
+    "MANAGER_ID": 60,
+    "CAPACITY": 86166,
+    "RECORD_TIMESTAMP": "2025-09-10T15:06:29.698113",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 107,
+    "WAREHOUSE_NAME": "Warehouse Riggsberg 107",
+    "LOCATION": "Eddieland, TN",
+    "MANAGER_ID": 104,
+    "CAPACITY": 60261,
+    "RECORD_TIMESTAMP": "2025-09-10T14:50:29.698237",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 108,
+    "WAREHOUSE_NAME": "Warehouse Lake Haley 108",
+    "LOCATION": "West Jonathan, NH",
+    "MANAGER_ID": 40,
+    "CAPACITY": 63745,
+    "RECORD_TIMESTAMP": "2025-09-10T14:30:29.698340",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 109,
+    "WAREHOUSE_NAME": "Warehouse Port Sandraborough 109",
+    "LOCATION": "New Rebeccaburgh, NC",
+    "MANAGER_ID": 80,
+    "CAPACITY": 26818,
+    "RECORD_TIMESTAMP": "2025-09-10T14:22:29.698443",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 110,
+    "WAREHOUSE_NAME": "Warehouse Ginaborough 110",
+    "LOCATION": "Smithburgh, AZ",
+    "MANAGER_ID": 80,
+    "CAPACITY": 40722,
+    "RECORD_TIMESTAMP": "2025-09-10T15:22:29.698555",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  }
+]

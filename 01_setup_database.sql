@@ -1,0 +1,31 @@
+-- =============================================================================
+-- SNOWPIPE AND DYNAMIC TABLES DEMO SETUP
+-- =============================================================================
+-- This script sets up the foundational database objects for demonstrating
+-- Snowpipe with schema detection and Dynamic Tables for latest data views
+-- =============================================================================
+
+-- Create database and schema
+CREATE DATABASE IF NOT EXISTS SNOWPIPE_DT_DEMO;
+USE DATABASE SNOWPIPE_DT_DEMO;
+
+CREATE SCHEMA IF NOT EXISTS STAGE_DATA;
+CREATE SCHEMA IF NOT EXISTS LATEST_DATA;
+CREATE SCHEMA IF NOT EXISTS DEMO_STAGES;
+
+-- Grant necessary privileges (adjust as per your environment)
+GRANT USAGE ON DATABASE SNOWPIPE_DT_DEMO TO ROLE SYSADMIN;
+GRANT USAGE ON SCHEMA SNOWPIPE_DT_DEMO.STAGE_DATA TO ROLE SYSADMIN;
+GRANT USAGE ON SCHEMA SNOWPIPE_DT_DEMO.LATEST_DATA TO ROLE SYSADMIN;
+GRANT USAGE ON SCHEMA SNOWPIPE_DT_DEMO.DEMO_STAGES TO ROLE SYSADMIN;
+
+GRANT CREATE TABLE ON SCHEMA SNOWPIPE_DT_DEMO.STAGE_DATA TO ROLE SYSADMIN;
+GRANT CREATE TABLE ON SCHEMA SNOWPIPE_DT_DEMO.LATEST_DATA TO ROLE SYSADMIN;
+GRANT CREATE STAGE ON SCHEMA SNOWPIPE_DT_DEMO.DEMO_STAGES TO ROLE SYSADMIN;
+GRANT CREATE PIPE ON DATABASE SNOWPIPE_DT_DEMO TO ROLE SYSADMIN;
+
+-- Set context
+USE SCHEMA SNOWPIPE_DT_DEMO.STAGE_DATA;
+
+-- Show current context
+SELECT CURRENT_DATABASE(), CURRENT_SCHEMA();

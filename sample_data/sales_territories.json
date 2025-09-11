@@ -1,0 +1,902 @@
+[
+  {
+    "TERRITORY_ID": 1,
+    "TERRITORY_NAME": "Connecticut Metro",
+    "REGION": "Pacific",
+    "MANAGER_ID": 93,
+    "RECORD_TIMESTAMP": "2025-08-22T15:50:53.555411",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 2,
+    "TERRITORY_NAME": "New Jersey North",
+    "REGION": "Central",
+    "MANAGER_ID": 84,
+    "RECORD_TIMESTAMP": "2025-08-29T15:50:53.555419",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 3,
+    "TERRITORY_NAME": "Massachusetts South",
+    "REGION": "North",
+    "MANAGER_ID": 86,
+    "RECORD_TIMESTAMP": "2025-09-06T15:50:53.555429",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 4,
+    "TERRITORY_NAME": "Hawaii Valley",
+    "REGION": "Central",
+    "MANAGER_ID": 21,
+    "RECORD_TIMESTAMP": "2025-08-28T15:50:53.555436",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 5,
+    "TERRITORY_NAME": "Maine Metro",
+    "REGION": "South",
+    "MANAGER_ID": 82,
+    "RECORD_TIMESTAMP": "2025-08-11T15:50:53.555447",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 6,
+    "TERRITORY_NAME": "Hawaii Metro",
+    "REGION": "Northeast",
+    "MANAGER_ID": 79,
+    "RECORD_TIMESTAMP": "2025-09-02T15:50:53.555454",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 7,
+    "TERRITORY_NAME": "California South",
+    "REGION": "East",
+    "MANAGER_ID": 62,
+    "RECORD_TIMESTAMP": "2025-09-05T15:50:53.555462",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 8,
+    "TERRITORY_NAME": "Louisiana Valley",
+    "REGION": "Pacific",
+    "MANAGER_ID": 48,
+    "RECORD_TIMESTAMP": "2025-08-27T15:50:53.555469",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 9,
+    "TERRITORY_NAME": "Oregon Valley",
+    "REGION": "Southwest",
+    "MANAGER_ID": 86,
+    "RECORD_TIMESTAMP": "2025-08-14T15:50:53.555476",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 10,
+    "TERRITORY_NAME": "Mississippi South",
+    "REGION": "West",
+    "MANAGER_ID": 88,
+    "RECORD_TIMESTAMP": "2025-08-16T15:50:53.555484",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 11,
+    "TERRITORY_NAME": "Minnesota North",
+    "REGION": "Southwest",
+    "MANAGER_ID": 58,
+    "RECORD_TIMESTAMP": "2025-08-24T15:50:53.555491",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 12,
+    "TERRITORY_NAME": "Colorado Metro",
+    "REGION": "South",
+    "MANAGER_ID": 73,
+    "RECORD_TIMESTAMP": "2025-09-06T15:50:53.555497",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 13,
+    "TERRITORY_NAME": "California North",
+    "REGION": "Southwest",
+    "MANAGER_ID": 65,
+    "RECORD_TIMESTAMP": "2025-09-03T15:50:53.555504",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 14,
+    "TERRITORY_NAME": "Idaho South",
+    "REGION": "East",
+    "MANAGER_ID": 42,
+    "RECORD_TIMESTAMP": "2025-08-13T15:50:53.555514",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 15,
+    "TERRITORY_NAME": "Virginia Valley",
+    "REGION": "South",
+    "MANAGER_ID": 88,
+    "RECORD_TIMESTAMP": "2025-09-03T15:50:53.555521",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 16,
+    "TERRITORY_NAME": "Wyoming Valley",
+    "REGION": "South",
+    "MANAGER_ID": 66,
+    "RECORD_TIMESTAMP": "2025-08-26T15:50:53.555532",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 17,
+    "TERRITORY_NAME": "New Jersey North",
+    "REGION": "Northwest",
+    "MANAGER_ID": 17,
+    "RECORD_TIMESTAMP": "2025-08-24T15:50:53.555539",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 18,
+    "TERRITORY_NAME": "Kentucky Valley",
+    "REGION": "Northwest",
+    "MANAGER_ID": 73,
+    "RECORD_TIMESTAMP": "2025-09-08T15:50:53.555549",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 19,
+    "TERRITORY_NAME": "New Mexico Valley",
+    "REGION": "Central",
+    "MANAGER_ID": 93,
+    "RECORD_TIMESTAMP": "2025-09-09T15:50:53.555556",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 20,
+    "TERRITORY_NAME": "Kentucky Valley",
+    "REGION": "Central",
+    "MANAGER_ID": 1,
+    "RECORD_TIMESTAMP": "2025-08-17T15:50:53.555563",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 21,
+    "TERRITORY_NAME": "Wisconsin South",
+    "REGION": "Pacific",
+    "MANAGER_ID": 10,
+    "RECORD_TIMESTAMP": "2025-09-08T15:50:53.555569",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 22,
+    "TERRITORY_NAME": "New Hampshire Valley",
+    "REGION": "Northeast",
+    "MANAGER_ID": 90,
+    "RECORD_TIMESTAMP": "2025-09-07T15:50:53.555576",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 23,
+    "TERRITORY_NAME": "Tennessee North",
+    "REGION": "South",
+    "MANAGER_ID": 61,
+    "RECORD_TIMESTAMP": "2025-09-08T15:50:53.555583",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 24,
+    "TERRITORY_NAME": "Florida Metro",
+    "REGION": "Southeast",
+    "MANAGER_ID": 24,
+    "RECORD_TIMESTAMP": "2025-08-16T15:50:53.555591",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 25,
+    "TERRITORY_NAME": "Delaware South",
+    "REGION": "Southeast",
+    "MANAGER_ID": 48,
+    "RECORD_TIMESTAMP": "2025-08-12T15:50:53.555601",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 26,
+    "TERRITORY_NAME": "Oregon Valley",
+    "REGION": "Northwest",
+    "MANAGER_ID": 49,
+    "RECORD_TIMESTAMP": "2025-08-28T15:50:53.555610",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 27,
+    "TERRITORY_NAME": "New York North",
+    "REGION": "Southwest",
+    "MANAGER_ID": 18,
+    "RECORD_TIMESTAMP": "2025-08-20T15:50:53.555617",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 28,
+    "TERRITORY_NAME": "Arizona Metro",
+    "REGION": "South",
+    "MANAGER_ID": 23,
+    "RECORD_TIMESTAMP": "2025-08-23T15:50:53.555623",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 29,
+    "TERRITORY_NAME": "Mississippi Valley",
+    "REGION": "Southwest",
+    "MANAGER_ID": 17,
+    "RECORD_TIMESTAMP": "2025-08-17T15:50:53.555630",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 30,
+    "TERRITORY_NAME": "Maine South",
+    "REGION": "North",
+    "MANAGER_ID": 97,
+    "RECORD_TIMESTAMP": "2025-09-09T15:50:53.555637",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 31,
+    "TERRITORY_NAME": "Montana Metro",
+    "REGION": "Northwest",
+    "MANAGER_ID": 87,
+    "RECORD_TIMESTAMP": "2025-08-17T15:50:53.555644",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 32,
+    "TERRITORY_NAME": "Nebraska Valley",
+    "REGION": "Southwest",
+    "MANAGER_ID": 49,
+    "RECORD_TIMESTAMP": "2025-08-14T15:50:53.555654",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 33,
+    "TERRITORY_NAME": "South Carolina South",
+    "REGION": "West",
+    "MANAGER_ID": 59,
+    "RECORD_TIMESTAMP": "2025-08-29T15:50:53.555661",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 34,
+    "TERRITORY_NAME": "Utah South",
+    "REGION": "Central",
+    "MANAGER_ID": 25,
+    "RECORD_TIMESTAMP": "2025-08-11T15:50:53.555668",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 35,
+    "TERRITORY_NAME": "Florida North",
+    "REGION": "North",
+    "MANAGER_ID": 85,
+    "RECORD_TIMESTAMP": "2025-08-27T15:50:53.555675",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 36,
+    "TERRITORY_NAME": "New Hampshire North",
+    "REGION": "West",
+    "MANAGER_ID": 27,
+    "RECORD_TIMESTAMP": "2025-09-07T15:50:53.555700",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 37,
+    "TERRITORY_NAME": "Mississippi North",
+    "REGION": "Pacific",
+    "MANAGER_ID": 5,
+    "RECORD_TIMESTAMP": "2025-08-26T15:50:53.555706",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 38,
+    "TERRITORY_NAME": "North Carolina North",
+    "REGION": "West",
+    "MANAGER_ID": 95,
+    "RECORD_TIMESTAMP": "2025-09-08T15:50:53.555713",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 39,
+    "TERRITORY_NAME": "South Carolina Valley",
+    "REGION": "Northwest",
+    "MANAGER_ID": 30,
+    "RECORD_TIMESTAMP": "2025-08-23T15:50:53.555720",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 40,
+    "TERRITORY_NAME": "Massachusetts South",
+    "REGION": "North",
+    "MANAGER_ID": 18,
+    "RECORD_TIMESTAMP": "2025-08-24T15:50:53.555728",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 41,
+    "TERRITORY_NAME": "Mississippi Metro",
+    "REGION": "West",
+    "MANAGER_ID": 94,
+    "RECORD_TIMESTAMP": "2025-08-22T15:50:53.555735",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 42,
+    "TERRITORY_NAME": "Colorado Metro",
+    "REGION": "Pacific",
+    "MANAGER_ID": 77,
+    "RECORD_TIMESTAMP": "2025-08-16T15:50:53.555742",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 43,
+    "TERRITORY_NAME": "Utah Metro",
+    "REGION": "West",
+    "MANAGER_ID": 39,
+    "RECORD_TIMESTAMP": "2025-08-12T15:50:53.555749",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 44,
+    "TERRITORY_NAME": "Nebraska South",
+    "REGION": "Southwest",
+    "MANAGER_ID": 29,
+    "RECORD_TIMESTAMP": "2025-08-27T15:50:53.555756",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 45,
+    "TERRITORY_NAME": "North Carolina Metro",
+    "REGION": "Central",
+    "MANAGER_ID": 8,
+    "RECORD_TIMESTAMP": "2025-08-23T15:50:53.555762",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 46,
+    "TERRITORY_NAME": "New Hampshire South",
+    "REGION": "Southeast",
+    "MANAGER_ID": 72,
+    "RECORD_TIMESTAMP": "2025-08-25T15:50:53.555769",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 47,
+    "TERRITORY_NAME": "Kentucky North",
+    "REGION": "Northeast",
+    "MANAGER_ID": 83,
+    "RECORD_TIMESTAMP": "2025-08-19T15:50:53.555776",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 48,
+    "TERRITORY_NAME": "Utah Valley",
+    "REGION": "Southwest",
+    "MANAGER_ID": 41,
+    "RECORD_TIMESTAMP": "2025-08-18T15:50:53.555783",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 49,
+    "TERRITORY_NAME": "Arizona Valley",
+    "REGION": "Southeast",
+    "MANAGER_ID": 20,
+    "RECORD_TIMESTAMP": "2025-08-31T15:50:53.555789",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 50,
+    "TERRITORY_NAME": "South Carolina Valley",
+    "REGION": "East",
+    "MANAGER_ID": 97,
+    "RECORD_TIMESTAMP": "2025-08-23T15:50:53.555797",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 51,
+    "TERRITORY_NAME": "Tennessee Valley",
+    "REGION": "West",
+    "MANAGER_ID": 29,
+    "RECORD_TIMESTAMP": "2025-08-31T15:50:53.555804",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 52,
+    "TERRITORY_NAME": "Arkansas South",
+    "REGION": "Northwest",
+    "MANAGER_ID": 8,
+    "RECORD_TIMESTAMP": "2025-08-23T15:50:53.555811",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 53,
+    "TERRITORY_NAME": "West Virginia Valley",
+    "REGION": "Southeast",
+    "MANAGER_ID": 72,
+    "RECORD_TIMESTAMP": "2025-08-24T15:50:53.555818",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 54,
+    "TERRITORY_NAME": "Kansas South",
+    "REGION": "Southeast",
+    "MANAGER_ID": 32,
+    "RECORD_TIMESTAMP": "2025-09-01T15:50:53.555824",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 55,
+    "TERRITORY_NAME": "Vermont South",
+    "REGION": "Northeast",
+    "MANAGER_ID": 83,
+    "RECORD_TIMESTAMP": "2025-09-07T15:50:53.555831",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 56,
+    "TERRITORY_NAME": "Oklahoma Valley",
+    "REGION": "Northeast",
+    "MANAGER_ID": 12,
+    "RECORD_TIMESTAMP": "2025-08-23T15:50:53.555838",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 57,
+    "TERRITORY_NAME": "Alabama South",
+    "REGION": "North",
+    "MANAGER_ID": 35,
+    "RECORD_TIMESTAMP": "2025-08-28T15:50:53.555845",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 58,
+    "TERRITORY_NAME": "Georgia North",
+    "REGION": "South",
+    "MANAGER_ID": 25,
+    "RECORD_TIMESTAMP": "2025-08-15T15:50:53.555854",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 59,
+    "TERRITORY_NAME": "Connecticut South",
+    "REGION": "Northwest",
+    "MANAGER_ID": 27,
+    "RECORD_TIMESTAMP": "2025-08-13T15:50:53.555861",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 60,
+    "TERRITORY_NAME": "Maine Metro",
+    "REGION": "Central",
+    "MANAGER_ID": 2,
+    "RECORD_TIMESTAMP": "2025-09-03T15:50:53.555868",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 61,
+    "TERRITORY_NAME": "Missouri South",
+    "REGION": "South",
+    "MANAGER_ID": 96,
+    "RECORD_TIMESTAMP": "2025-08-16T15:50:53.555875",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 62,
+    "TERRITORY_NAME": "Hawaii Valley",
+    "REGION": "West",
+    "MANAGER_ID": 90,
+    "RECORD_TIMESTAMP": "2025-08-21T15:50:53.555881",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 63,
+    "TERRITORY_NAME": "Oregon South",
+    "REGION": "Southeast",
+    "MANAGER_ID": 31,
+    "RECORD_TIMESTAMP": "2025-08-23T15:50:53.555889",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 64,
+    "TERRITORY_NAME": "Montana Metro",
+    "REGION": "Central",
+    "MANAGER_ID": 49,
+    "RECORD_TIMESTAMP": "2025-08-26T15:50:53.555896",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 65,
+    "TERRITORY_NAME": "California Metro",
+    "REGION": "Central",
+    "MANAGER_ID": 34,
+    "RECORD_TIMESTAMP": "2025-08-29T15:50:53.555903",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 66,
+    "TERRITORY_NAME": "Iowa Valley",
+    "REGION": "Northwest",
+    "MANAGER_ID": 13,
+    "RECORD_TIMESTAMP": "2025-08-15T15:50:53.555913",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 67,
+    "TERRITORY_NAME": "Missouri Valley",
+    "REGION": "Northeast",
+    "MANAGER_ID": 27,
+    "RECORD_TIMESTAMP": "2025-08-29T15:50:53.555920",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 68,
+    "TERRITORY_NAME": "New Jersey Metro",
+    "REGION": "Southeast",
+    "MANAGER_ID": 6,
+    "RECORD_TIMESTAMP": "2025-08-22T15:50:53.555926",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 69,
+    "TERRITORY_NAME": "Texas South",
+    "REGION": "East",
+    "MANAGER_ID": 3,
+    "RECORD_TIMESTAMP": "2025-09-01T15:50:53.555933",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 70,
+    "TERRITORY_NAME": "Colorado Valley",
+    "REGION": "Central",
+    "MANAGER_ID": 20,
+    "RECORD_TIMESTAMP": "2025-09-03T15:50:53.555940",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 71,
+    "TERRITORY_NAME": "Minnesota Metro",
+    "REGION": "West",
+    "MANAGER_ID": 49,
+    "RECORD_TIMESTAMP": "2025-08-22T15:50:53.555949",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 72,
+    "TERRITORY_NAME": "New Jersey South",
+    "REGION": "Northwest",
+    "MANAGER_ID": 71,
+    "RECORD_TIMESTAMP": "2025-08-20T15:50:53.555956",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 73,
+    "TERRITORY_NAME": "New Jersey Metro",
+    "REGION": "Central",
+    "MANAGER_ID": 98,
+    "RECORD_TIMESTAMP": "2025-08-14T15:50:53.555963",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 74,
+    "TERRITORY_NAME": "Tennessee Valley",
+    "REGION": "Northwest",
+    "MANAGER_ID": 59,
+    "RECORD_TIMESTAMP": "2025-09-04T15:50:53.555970",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 75,
+    "TERRITORY_NAME": "Ohio Metro",
+    "REGION": "East",
+    "MANAGER_ID": 18,
+    "RECORD_TIMESTAMP": "2025-08-17T15:50:53.555977",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 76,
+    "TERRITORY_NAME": "New Jersey Valley",
+    "REGION": "East",
+    "MANAGER_ID": 70,
+    "RECORD_TIMESTAMP": "2025-08-20T15:50:53.555985",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 77,
+    "TERRITORY_NAME": "Connecticut North",
+    "REGION": "Southwest",
+    "MANAGER_ID": 5,
+    "RECORD_TIMESTAMP": "2025-08-14T15:50:53.555994",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 78,
+    "TERRITORY_NAME": "Colorado North",
+    "REGION": "North",
+    "MANAGER_ID": 98,
+    "RECORD_TIMESTAMP": "2025-09-09T15:50:53.556001",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 79,
+    "TERRITORY_NAME": "Idaho Valley",
+    "REGION": "East",
+    "MANAGER_ID": 81,
+    "RECORD_TIMESTAMP": "2025-09-02T15:50:53.556008",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 80,
+    "TERRITORY_NAME": "Washington North",
+    "REGION": "East",
+    "MANAGER_ID": 2,
+    "RECORD_TIMESTAMP": "2025-09-03T15:50:53.556015",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 81,
+    "TERRITORY_NAME": "Connecticut Valley",
+    "REGION": "Northeast",
+    "MANAGER_ID": 8,
+    "RECORD_TIMESTAMP": "2025-08-21T15:50:53.556022",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 82,
+    "TERRITORY_NAME": "Montana Valley",
+    "REGION": "Northwest",
+    "MANAGER_ID": 3,
+    "RECORD_TIMESTAMP": "2025-09-09T15:50:53.556029",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 83,
+    "TERRITORY_NAME": "Wyoming Valley",
+    "REGION": "North",
+    "MANAGER_ID": 3,
+    "RECORD_TIMESTAMP": "2025-08-24T15:50:53.556035",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 84,
+    "TERRITORY_NAME": "Nevada Metro",
+    "REGION": "Southwest",
+    "MANAGER_ID": 37,
+    "RECORD_TIMESTAMP": "2025-09-09T15:50:53.556042",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 85,
+    "TERRITORY_NAME": "Illinois Valley",
+    "REGION": "East",
+    "MANAGER_ID": 14,
+    "RECORD_TIMESTAMP": "2025-08-11T15:50:53.556049",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 86,
+    "TERRITORY_NAME": "Montana North",
+    "REGION": "Southwest",
+    "MANAGER_ID": 20,
+    "RECORD_TIMESTAMP": "2025-09-02T15:50:53.556056",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 87,
+    "TERRITORY_NAME": "Michigan South",
+    "REGION": "Pacific",
+    "MANAGER_ID": 68,
+    "RECORD_TIMESTAMP": "2025-09-01T15:50:53.556062",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 88,
+    "TERRITORY_NAME": "California Metro",
+    "REGION": "Central",
+    "MANAGER_ID": 51,
+    "RECORD_TIMESTAMP": "2025-09-07T15:50:53.556069",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 89,
+    "TERRITORY_NAME": "Massachusetts Metro",
+    "REGION": "Southeast",
+    "MANAGER_ID": 59,
+    "RECORD_TIMESTAMP": "2025-08-22T15:50:53.556078",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 90,
+    "TERRITORY_NAME": "Michigan South",
+    "REGION": "West",
+    "MANAGER_ID": 39,
+    "RECORD_TIMESTAMP": "2025-08-19T15:50:53.556085",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 91,
+    "TERRITORY_NAME": "Rhode Island North",
+    "REGION": "North",
+    "MANAGER_ID": 12,
+    "RECORD_TIMESTAMP": "2025-08-28T15:50:53.556092",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 92,
+    "TERRITORY_NAME": "New York Valley",
+    "REGION": "Southeast",
+    "MANAGER_ID": 71,
+    "RECORD_TIMESTAMP": "2025-08-25T15:50:53.556098",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 93,
+    "TERRITORY_NAME": "Indiana North",
+    "REGION": "North",
+    "MANAGER_ID": 90,
+    "RECORD_TIMESTAMP": "2025-09-04T15:50:53.556105",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 94,
+    "TERRITORY_NAME": "Vermont North",
+    "REGION": "Northwest",
+    "MANAGER_ID": 56,
+    "RECORD_TIMESTAMP": "2025-08-20T15:50:53.556112",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 95,
+    "TERRITORY_NAME": "West Virginia Metro",
+    "REGION": "Pacific",
+    "MANAGER_ID": 13,
+    "RECORD_TIMESTAMP": "2025-08-12T15:50:53.556119",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 96,
+    "TERRITORY_NAME": "New Mexico North",
+    "REGION": "West",
+    "MANAGER_ID": 28,
+    "RECORD_TIMESTAMP": "2025-08-12T15:50:53.556126",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 97,
+    "TERRITORY_NAME": "Delaware Valley",
+    "REGION": "Central",
+    "MANAGER_ID": 6,
+    "RECORD_TIMESTAMP": "2025-08-11T15:50:53.556133",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 98,
+    "TERRITORY_NAME": "Louisiana North",
+    "REGION": "Central",
+    "MANAGER_ID": 70,
+    "RECORD_TIMESTAMP": "2025-08-22T15:50:53.556140",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 99,
+    "TERRITORY_NAME": "New Jersey North",
+    "REGION": "East",
+    "MANAGER_ID": 41,
+    "RECORD_TIMESTAMP": "2025-09-09T15:50:53.556146",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 100,
+    "TERRITORY_NAME": "Arizona South",
+    "REGION": "Pacific",
+    "MANAGER_ID": 19,
+    "RECORD_TIMESTAMP": "2025-08-16T15:50:53.556153",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  }
+]

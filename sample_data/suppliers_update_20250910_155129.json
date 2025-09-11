@@ -1,0 +1,202 @@
+[
+  {
+    "SUPPLIER_ID": 26,
+    "SUPPLIER_NAME": "Castro Ltd",
+    "CONTACT_EMAIL": "cheryllee@black.info",
+    "CONTACT_PHONE": "727-935-5372x45148",
+    "ADDRESS": "USNV Murphy, FPO AP 86488",
+    "RECORD_TIMESTAMP": "2025-09-10T15:26:29.686114",
+    "DATA_VERSION": 2,
+    "RECORD_STATUS": "INACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 11,
+    "SUPPLIER_NAME": "Cardenas-Mccormick",
+    "CONTACT_EMAIL": "garciaashley@leonard-morales.org",
+    "CONTACT_PHONE": "+1-902-591-0799x68487",
+    "ADDRESS": "952 Nguyen Terrace, Millerchester, VA 50876",
+    "RECORD_TIMESTAMP": "2025-09-10T14:31:29.686617",
+    "DATA_VERSION": 4,
+    "RECORD_STATUS": "UNDER_REVIEW"
+  },
+  {
+    "SUPPLIER_ID": 56,
+    "SUPPLIER_NAME": "Elliott-Bailey",
+    "CONTACT_EMAIL": "bradweber@olson-johnson.org",
+    "CONTACT_PHONE": "+1-613-500-2211x45038",
+    "ADDRESS": "Unit 1915 Box 8996, DPO AP 31270",
+    "RECORD_TIMESTAMP": "2025-09-10T15:32:29.686991",
+    "DATA_VERSION": 3,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 62,
+    "SUPPLIER_NAME": "Ramirez Inc",
+    "CONTACT_EMAIL": "milleraustin@spears.com",
+    "CONTACT_PHONE": "001-452-326-5425",
+    "ADDRESS": "7066 Ware Path Suite 718, West Danielton, LA 23180",
+    "RECORD_TIMESTAMP": "2025-09-10T14:14:29.687372",
+    "DATA_VERSION": 2,
+    "RECORD_STATUS": "UNDER_REVIEW"
+  },
+  {
+    "SUPPLIER_ID": 65,
+    "SUPPLIER_NAME": "Oliver-Lee",
+    "CONTACT_EMAIL": "gonzalezhailey@barnett.com",
+    "CONTACT_PHONE": "001-801-734-1264x896",
+    "ADDRESS": "307 Courtney Rapids Suite 443, Mollyton, WI 42570",
+    "RECORD_TIMESTAMP": "2025-09-10T14:53:29.687807",
+    "DATA_VERSION": 4,
+    "RECORD_STATUS": "INACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 16,
+    "SUPPLIER_NAME": "Guzman-Hayes",
+    "CONTACT_EMAIL": "wilsonbrandon@doyle.com",
+    "CONTACT_PHONE": "(258)240-3332",
+    "ADDRESS": "0184 Ashley Island, West Audreyport, ND 02656",
+    "RECORD_TIMESTAMP": "2025-09-10T15:18:29.688224",
+    "DATA_VERSION": 4,
+    "RECORD_STATUS": "INACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 76,
+    "SUPPLIER_NAME": "Vasquez Ltd",
+    "CONTACT_EMAIL": "albert22@holmes-ponce.com",
+    "CONTACT_PHONE": "001-441-246-2504x28011",
+    "ADDRESS": "189 Torres Street, Lisastad, NV 90013",
+    "RECORD_TIMESTAMP": "2025-09-10T14:58:29.688596",
+    "DATA_VERSION": 3,
+    "RECORD_STATUS": "INACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 17,
+    "SUPPLIER_NAME": "Smith PLC",
+    "CONTACT_EMAIL": "njenkins@smith.com",
+    "CONTACT_PHONE": "001-303-303-3470",
+    "ADDRESS": "990 Matthew Flats, Lake Jenniferchester, PR 69015",
+    "RECORD_TIMESTAMP": "2025-09-10T15:26:29.688913",
+    "DATA_VERSION": 3,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 83,
+    "SUPPLIER_NAME": "Gibson Group",
+    "CONTACT_EMAIL": "herringnatasha@wilkerson.biz",
+    "CONTACT_PHONE": "9624969668",
+    "ADDRESS": "2699 Park Flat Suite 644, Georgeborough, AS 21591",
+    "RECORD_TIMESTAMP": "2025-09-10T15:38:29.689392",
+    "DATA_VERSION": 4,
+    "RECORD_STATUS": "UNDER_REVIEW"
+  },
+  {
+    "SUPPLIER_ID": 69,
+    "SUPPLIER_NAME": "Phillips, Gonzalez and Todd",
+    "CONTACT_EMAIL": "meredith66@lewis-davidson.com",
+    "CONTACT_PHONE": "(917)811-5902",
+    "ADDRESS": "141 Singh Plaza, Smithchester, NV 30593",
+    "RECORD_TIMESTAMP": "2025-09-10T14:09:29.689892",
+    "DATA_VERSION": 2,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 101,
+    "SUPPLIER_NAME": "Meyers-Stanley",
+    "CONTACT_EMAIL": "jessica28@price.info",
+    "CONTACT_PHONE": "001-218-859-2329x71664",
+    "ADDRESS": "542 Mccormick Corners, Carterside, SC 30257",
+    "RECORD_TIMESTAMP": "2025-09-10T14:28:29.690280",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 102,
+    "SUPPLIER_NAME": "Cooper Group",
+    "CONTACT_EMAIL": "tracycook@mathis-peterson.biz",
+    "CONTACT_PHONE": "6047019937",
+    "ADDRESS": "6161 Cheryl Dam Suite 351, Briantown, NH 51739",
+    "RECORD_TIMESTAMP": "2025-09-10T14:17:29.690692",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 103,
+    "SUPPLIER_NAME": "Black, Wise and Carr",
+    "CONTACT_EMAIL": "fmurray@snyder-nelson.biz",
+    "CONTACT_PHONE": "(997)919-2642",
+    "ADDRESS": "89403 Pham Cliffs, Port Markchester, NY 32733",
+    "RECORD_TIMESTAMP": "2025-09-10T15:19:29.691197",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 104,
+    "SUPPLIER_NAME": "Franklin-Gutierrez",
+    "CONTACT_EMAIL": "davidmiller@gonzalez.biz",
+    "CONTACT_PHONE": "448.397.0133x355",
+    "ADDRESS": "3907 Becky Forge, Johnsonburgh, NV 98048",
+    "RECORD_TIMESTAMP": "2025-09-10T14:45:29.691742",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 105,
+    "SUPPLIER_NAME": "Stephens, Patterson and Choi",
+    "CONTACT_EMAIL": "melissa52@esparza.com",
+    "CONTACT_PHONE": "+1-563-428-3470x1048",
+    "ADDRESS": "82903 Delgado Skyway, New Meganmouth, MS 78611",
+    "RECORD_TIMESTAMP": "2025-09-10T14:31:29.692274",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 106,
+    "SUPPLIER_NAME": "Powell Inc",
+    "CONTACT_EMAIL": "susan74@lewis-graham.com",
+    "CONTACT_PHONE": "377-984-4011x2445",
+    "ADDRESS": "70442 Smith Freeway, Barnettborough, TX 73890",
+    "RECORD_TIMESTAMP": "2025-09-10T15:05:29.692663",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 107,
+    "SUPPLIER_NAME": "Blackwell-Nguyen",
+    "CONTACT_EMAIL": "davidnorris@smith.com",
+    "CONTACT_PHONE": "821-945-6424x865",
+    "ADDRESS": "5550 William Skyway, South Chelseahaven, NJ 50440",
+    "RECORD_TIMESTAMP": "2025-09-10T14:04:29.693173",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 108,
+    "SUPPLIER_NAME": "Tucker, Weber and Bennett",
+    "CONTACT_EMAIL": "benjaminkramer@gonzalez.biz",
+    "CONTACT_PHONE": "385.380.7644",
+    "ADDRESS": "7372 Lane Square, East Danielle, PR 91831",
+    "RECORD_TIMESTAMP": "2025-09-10T15:06:29.693646",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 109,
+    "SUPPLIER_NAME": "Rollins Ltd",
+    "CONTACT_EMAIL": "maria45@thomas.com",
+    "CONTACT_PHONE": "(805)913-6106x31070",
+    "ADDRESS": "659 Bailey Garden, North Anthony, MP 63783",
+    "RECORD_TIMESTAMP": "2025-09-10T14:40:29.693976",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 110,
+    "SUPPLIER_NAME": "Mcfarland, Nichols and Snow",
+    "CONTACT_EMAIL": "allisonlozano@ingram-bolton.info",
+    "CONTACT_PHONE": "+1-440-296-2617x61838",
+    "ADDRESS": "7627 Smith Bridge Apt. 456, Nicoleton, MD 82575",
+    "RECORD_TIMESTAMP": "2025-09-10T14:17:29.694542",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  }
+]

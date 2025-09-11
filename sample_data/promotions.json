@@ -1,0 +1,1002 @@
+[
+  {
+    "PROMOTION_ID": 1,
+    "PROMOTION_NAME": "Quality-focused coherent leverage Sale",
+    "DISCOUNT_PERCENTAGE": null,
+    "START_DATE": "2025-06-13",
+    "END_DATE": "2025-10-29",
+    "RECORD_TIMESTAMP": "2025-08-31T15:50:53.556219",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 2,
+    "PROMOTION_NAME": "Digitized scalable data-warehouse Sale",
+    "DISCOUNT_PERCENTAGE": 30.38,
+    "START_DATE": "2025-07-06",
+    "END_DATE": "2026-01-17",
+    "RECORD_TIMESTAMP": "2025-08-19T15:50:53.556249",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 3,
+    "PROMOTION_NAME": "Intuitive non-volatile alliance Sale",
+    "DISCOUNT_PERCENTAGE": null,
+    "START_DATE": "2025-07-18",
+    "END_DATE": "2025-11-14",
+    "RECORD_TIMESTAMP": "2025-08-15T15:50:53.556268",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 4,
+    "PROMOTION_NAME": "Right-sized zero-defect implementation Sale",
+    "DISCOUNT_PERCENTAGE": 27.54,
+    "START_DATE": "2025-07-20",
+    "END_DATE": "2025-10-23",
+    "RECORD_TIMESTAMP": "2025-09-06T15:50:53.556287",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 5,
+    "PROMOTION_NAME": "Centralized high-level utilization Sale",
+    "DISCOUNT_PERCENTAGE": null,
+    "START_DATE": "2025-07-28",
+    "END_DATE": "2025-10-29",
+    "RECORD_TIMESTAMP": "2025-08-30T15:50:53.556304",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 6,
+    "PROMOTION_NAME": "Optional methodical data-warehouse Sale",
+    "DISCOUNT_PERCENTAGE": null,
+    "START_DATE": "2025-06-23",
+    "END_DATE": "2026-01-01",
+    "RECORD_TIMESTAMP": "2025-09-09T15:50:53.556328",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 7,
+    "PROMOTION_NAME": "Business-focused didactic adapter Sale",
+    "DISCOUNT_PERCENTAGE": null,
+    "START_DATE": "2025-06-22",
+    "END_DATE": "2026-02-02",
+    "RECORD_TIMESTAMP": "2025-08-25T15:50:53.556349",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 8,
+    "PROMOTION_NAME": "Virtual systemic interface Sale",
+    "DISCOUNT_PERCENTAGE": 21.01,
+    "START_DATE": "2025-06-12",
+    "END_DATE": "2026-01-14",
+    "RECORD_TIMESTAMP": "2025-08-27T15:50:53.556370",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 9,
+    "PROMOTION_NAME": "Future-proofed eco-centric productivity Sale",
+    "DISCOUNT_PERCENTAGE": 35.59,
+    "START_DATE": "2025-06-30",
+    "END_DATE": "2026-01-15",
+    "RECORD_TIMESTAMP": "2025-09-07T15:50:53.556389",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 10,
+    "PROMOTION_NAME": "Enhanced attitude-oriented circuit Sale",
+    "DISCOUNT_PERCENTAGE": null,
+    "START_DATE": "2025-06-21",
+    "END_DATE": "2025-12-12",
+    "RECORD_TIMESTAMP": "2025-08-18T15:50:53.556409",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 11,
+    "PROMOTION_NAME": "Cloned even-keeled initiative Sale",
+    "DISCOUNT_PERCENTAGE": 8.69,
+    "START_DATE": "2025-08-02",
+    "END_DATE": "2026-01-15",
+    "RECORD_TIMESTAMP": "2025-08-18T15:50:53.556428",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 12,
+    "PROMOTION_NAME": "Configurable exuding structure Sale",
+    "DISCOUNT_PERCENTAGE": 38.28,
+    "START_DATE": "2025-07-22",
+    "END_DATE": "2026-01-10",
+    "RECORD_TIMESTAMP": "2025-09-06T15:50:53.556447",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 13,
+    "PROMOTION_NAME": "Organized intangible moderator Sale",
+    "DISCOUNT_PERCENTAGE": 5.23,
+    "START_DATE": "2025-07-23",
+    "END_DATE": "2026-01-31",
+    "RECORD_TIMESTAMP": "2025-08-29T15:50:53.556468",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 14,
+    "PROMOTION_NAME": "Extended static firmware Sale",
+    "DISCOUNT_PERCENTAGE": null,
+    "START_DATE": "2025-08-05",
+    "END_DATE": "2025-11-12",
+    "RECORD_TIMESTAMP": "2025-09-07T15:50:53.556488",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 15,
+    "PROMOTION_NAME": "Enterprise-wide actuating array Sale",
+    "DISCOUNT_PERCENTAGE": 24.39,
+    "START_DATE": "2025-07-07",
+    "END_DATE": "2026-03-01",
+    "RECORD_TIMESTAMP": "2025-08-24T15:50:53.556512",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 16,
+    "PROMOTION_NAME": "Optimized global system engine Sale",
+    "DISCOUNT_PERCENTAGE": null,
+    "START_DATE": "2025-08-05",
+    "END_DATE": "2025-10-16",
+    "RECORD_TIMESTAMP": "2025-09-07T15:50:53.556534",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 17,
+    "PROMOTION_NAME": "Innovative composite customer loyalty Sale",
+    "DISCOUNT_PERCENTAGE": null,
+    "START_DATE": "2025-07-07",
+    "END_DATE": "2025-11-02",
+    "RECORD_TIMESTAMP": "2025-08-21T15:50:53.556555",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 18,
+    "PROMOTION_NAME": "Monitored intangible matrices Sale",
+    "DISCOUNT_PERCENTAGE": null,
+    "START_DATE": "2025-06-17",
+    "END_DATE": "2026-01-16",
+    "RECORD_TIMESTAMP": "2025-09-09T15:50:53.556575",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 19,
+    "PROMOTION_NAME": "Phased national solution Sale",
+    "DISCOUNT_PERCENTAGE": null,
+    "START_DATE": "2025-07-16",
+    "END_DATE": "2026-01-17",
+    "RECORD_TIMESTAMP": "2025-08-16T15:50:53.556592",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 20,
+    "PROMOTION_NAME": "Diverse tangible Internet solution Sale",
+    "DISCOUNT_PERCENTAGE": 37.62,
+    "START_DATE": "2025-07-07",
+    "END_DATE": "2025-12-11",
+    "RECORD_TIMESTAMP": "2025-08-22T15:50:53.556611",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 21,
+    "PROMOTION_NAME": "Multi-channeled system-worthy orchestration Sale",
+    "DISCOUNT_PERCENTAGE": 35.84,
+    "START_DATE": "2025-08-01",
+    "END_DATE": "2025-11-14",
+    "RECORD_TIMESTAMP": "2025-09-01T15:50:53.556628",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 22,
+    "PROMOTION_NAME": "Networked 24/7 open architecture Sale",
+    "DISCOUNT_PERCENTAGE": null,
+    "START_DATE": "2025-07-25",
+    "END_DATE": "2026-02-13",
+    "RECORD_TIMESTAMP": "2025-09-05T15:50:53.556646",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 23,
+    "PROMOTION_NAME": "Right-sized dedicated archive Sale",
+    "DISCOUNT_PERCENTAGE": 12.52,
+    "START_DATE": "2025-07-25",
+    "END_DATE": "2026-01-25",
+    "RECORD_TIMESTAMP": "2025-08-31T15:50:53.556664",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 24,
+    "PROMOTION_NAME": "Up-sized static paradigm Sale",
+    "DISCOUNT_PERCENTAGE": null,
+    "START_DATE": "2025-06-22",
+    "END_DATE": "2025-10-29",
+    "RECORD_TIMESTAMP": "2025-08-29T15:50:53.556682",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 25,
+    "PROMOTION_NAME": "Seamless client-server Graphic Interface Sale",
+    "DISCOUNT_PERCENTAGE": null,
+    "START_DATE": "2025-06-12",
+    "END_DATE": "2025-12-12",
+    "RECORD_TIMESTAMP": "2025-08-17T15:50:53.556701",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 26,
+    "PROMOTION_NAME": "Synchronized upward-trending synergy Sale",
+    "DISCOUNT_PERCENTAGE": null,
+    "START_DATE": "2025-07-04",
+    "END_DATE": "2025-11-29",
+    "RECORD_TIMESTAMP": "2025-08-26T15:50:53.556721",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 27,
+    "PROMOTION_NAME": "User-centric upward-trending functionalities Sale",
+    "DISCOUNT_PERCENTAGE": 11.1,
+    "START_DATE": "2025-08-11",
+    "END_DATE": "2026-01-19",
+    "RECORD_TIMESTAMP": "2025-08-30T15:50:53.556742",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 28,
+    "PROMOTION_NAME": "Advanced coherent knowledgebase Sale",
+    "DISCOUNT_PERCENTAGE": null,
+    "START_DATE": "2025-06-21",
+    "END_DATE": "2026-01-02",
+    "RECORD_TIMESTAMP": "2025-08-26T15:50:53.556763",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 29,
+    "PROMOTION_NAME": "Digitized modular functionalities Sale",
+    "DISCOUNT_PERCENTAGE": null,
+    "START_DATE": "2025-07-15",
+    "END_DATE": "2025-11-13",
+    "RECORD_TIMESTAMP": "2025-08-31T15:50:53.556781",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 30,
+    "PROMOTION_NAME": "Customizable systematic installation Sale",
+    "DISCOUNT_PERCENTAGE": null,
+    "START_DATE": "2025-07-04",
+    "END_DATE": "2025-11-30",
+    "RECORD_TIMESTAMP": "2025-08-25T15:50:53.556798",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 31,
+    "PROMOTION_NAME": "Fundamental multi-state success Sale",
+    "DISCOUNT_PERCENTAGE": null,
+    "START_DATE": "2025-07-31",
+    "END_DATE": "2026-01-19",
+    "RECORD_TIMESTAMP": "2025-08-30T15:50:53.556815",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 32,
+    "PROMOTION_NAME": "Adaptive local capacity Sale",
+    "DISCOUNT_PERCENTAGE": null,
+    "START_DATE": "2025-06-25",
+    "END_DATE": "2026-02-12",
+    "RECORD_TIMESTAMP": "2025-08-22T15:50:53.556832",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 33,
+    "PROMOTION_NAME": "Sharable local productivity Sale",
+    "DISCOUNT_PERCENTAGE": 19.66,
+    "START_DATE": "2025-07-25",
+    "END_DATE": "2026-01-18",
+    "RECORD_TIMESTAMP": "2025-08-29T15:50:53.556853",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 34,
+    "PROMOTION_NAME": "Reduced bandwidth-monitored alliance Sale",
+    "DISCOUNT_PERCENTAGE": 46.94,
+    "START_DATE": "2025-07-30",
+    "END_DATE": "2026-02-26",
+    "RECORD_TIMESTAMP": "2025-09-04T15:50:53.556875",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 35,
+    "PROMOTION_NAME": "Extended value-added core Sale",
+    "DISCOUNT_PERCENTAGE": 47.89,
+    "START_DATE": "2025-07-13",
+    "END_DATE": "2025-12-02",
+    "RECORD_TIMESTAMP": "2025-08-26T15:50:53.556896",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 36,
+    "PROMOTION_NAME": "Operative tangible moratorium Sale",
+    "DISCOUNT_PERCENTAGE": null,
+    "START_DATE": "2025-06-19",
+    "END_DATE": "2025-10-27",
+    "RECORD_TIMESTAMP": "2025-08-14T15:50:53.556913",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 37,
+    "PROMOTION_NAME": "Vision-oriented composite policy Sale",
+    "DISCOUNT_PERCENTAGE": null,
+    "START_DATE": "2025-06-29",
+    "END_DATE": "2026-02-14",
+    "RECORD_TIMESTAMP": "2025-09-05T15:50:53.556930",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 38,
+    "PROMOTION_NAME": "Multi-tiered didactic hardware Sale",
+    "DISCOUNT_PERCENTAGE": null,
+    "START_DATE": "2025-07-27",
+    "END_DATE": "2025-12-13",
+    "RECORD_TIMESTAMP": "2025-08-19T15:50:53.556947",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 39,
+    "PROMOTION_NAME": "Expanded content-based service-desk Sale",
+    "DISCOUNT_PERCENTAGE": 37.19,
+    "START_DATE": "2025-06-22",
+    "END_DATE": "2026-01-14",
+    "RECORD_TIMESTAMP": "2025-09-07T15:50:53.556968",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 40,
+    "PROMOTION_NAME": "Re-engineered 24/7 hub Sale",
+    "DISCOUNT_PERCENTAGE": null,
+    "START_DATE": "2025-07-04",
+    "END_DATE": "2026-02-09",
+    "RECORD_TIMESTAMP": "2025-08-22T15:50:53.556985",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 41,
+    "PROMOTION_NAME": "Multi-lateral 3rdgeneration framework Sale",
+    "DISCOUNT_PERCENTAGE": null,
+    "START_DATE": "2025-07-08",
+    "END_DATE": "2026-02-16",
+    "RECORD_TIMESTAMP": "2025-08-11T15:50:53.557002",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 42,
+    "PROMOTION_NAME": "Integrated motivating capability Sale",
+    "DISCOUNT_PERCENTAGE": null,
+    "START_DATE": "2025-07-08",
+    "END_DATE": "2025-10-19",
+    "RECORD_TIMESTAMP": "2025-08-15T15:50:53.557019",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 43,
+    "PROMOTION_NAME": "Total modular projection Sale",
+    "DISCOUNT_PERCENTAGE": null,
+    "START_DATE": "2025-06-28",
+    "END_DATE": "2026-02-24",
+    "RECORD_TIMESTAMP": "2025-08-21T15:50:53.557036",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 44,
+    "PROMOTION_NAME": "Persevering incremental installation Sale",
+    "DISCOUNT_PERCENTAGE": 9.92,
+    "START_DATE": "2025-07-27",
+    "END_DATE": "2026-01-08",
+    "RECORD_TIMESTAMP": "2025-09-04T15:50:53.557057",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 45,
+    "PROMOTION_NAME": "Multi-channeled heuristic moratorium Sale",
+    "DISCOUNT_PERCENTAGE": 30.34,
+    "START_DATE": "2025-07-01",
+    "END_DATE": "2026-01-20",
+    "RECORD_TIMESTAMP": "2025-08-16T15:50:53.557078",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 46,
+    "PROMOTION_NAME": "Optimized multi-state task-force Sale",
+    "DISCOUNT_PERCENTAGE": null,
+    "START_DATE": "2025-06-22",
+    "END_DATE": "2026-01-28",
+    "RECORD_TIMESTAMP": "2025-09-06T15:50:53.557095",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 47,
+    "PROMOTION_NAME": "Managed bifurcated conglomeration Sale",
+    "DISCOUNT_PERCENTAGE": 9.44,
+    "START_DATE": "2025-07-28",
+    "END_DATE": "2026-02-17",
+    "RECORD_TIMESTAMP": "2025-08-17T15:50:53.557115",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 48,
+    "PROMOTION_NAME": "Persevering interactive hub Sale",
+    "DISCOUNT_PERCENTAGE": 25.06,
+    "START_DATE": "2025-07-17",
+    "END_DATE": "2026-02-05",
+    "RECORD_TIMESTAMP": "2025-08-16T15:50:53.557136",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 49,
+    "PROMOTION_NAME": "Enhanced neutral policy Sale",
+    "DISCOUNT_PERCENTAGE": 20.52,
+    "START_DATE": "2025-08-10",
+    "END_DATE": "2026-02-10",
+    "RECORD_TIMESTAMP": "2025-09-06T15:50:53.557154",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 50,
+    "PROMOTION_NAME": "Diverse needs-based Internet solution Sale",
+    "DISCOUNT_PERCENTAGE": null,
+    "START_DATE": "2025-07-16",
+    "END_DATE": "2025-10-31",
+    "RECORD_TIMESTAMP": "2025-09-06T15:50:53.557172",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 51,
+    "PROMOTION_NAME": "Multi-tiered executive protocol Sale",
+    "DISCOUNT_PERCENTAGE": 20.67,
+    "START_DATE": "2025-07-21",
+    "END_DATE": "2026-02-03",
+    "RECORD_TIMESTAMP": "2025-08-15T15:50:53.557190",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 52,
+    "PROMOTION_NAME": "Team-oriented systemic Internet solution Sale",
+    "DISCOUNT_PERCENTAGE": 28.45,
+    "START_DATE": "2025-07-20",
+    "END_DATE": "2026-02-08",
+    "RECORD_TIMESTAMP": "2025-09-06T15:50:53.557208",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 53,
+    "PROMOTION_NAME": "Sharable executive standardization Sale",
+    "DISCOUNT_PERCENTAGE": null,
+    "START_DATE": "2025-06-26",
+    "END_DATE": "2026-02-02",
+    "RECORD_TIMESTAMP": "2025-08-30T15:50:53.557225",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 54,
+    "PROMOTION_NAME": "Secured bandwidth-monitored array Sale",
+    "DISCOUNT_PERCENTAGE": 18.51,
+    "START_DATE": "2025-06-21",
+    "END_DATE": "2025-11-08",
+    "RECORD_TIMESTAMP": "2025-09-09T15:50:53.557245",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 55,
+    "PROMOTION_NAME": "Customer-focused background projection Sale",
+    "DISCOUNT_PERCENTAGE": null,
+    "START_DATE": "2025-07-01",
+    "END_DATE": "2025-11-06",
+    "RECORD_TIMESTAMP": "2025-08-19T15:50:53.557263",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 56,
+    "PROMOTION_NAME": "Ameliorated reciprocal installation Sale",
+    "DISCOUNT_PERCENTAGE": 46.85,
+    "START_DATE": "2025-06-25",
+    "END_DATE": "2025-12-11",
+    "RECORD_TIMESTAMP": "2025-08-24T15:50:53.557283",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 57,
+    "PROMOTION_NAME": "Customer-focused modular synergy Sale",
+    "DISCOUNT_PERCENTAGE": 29.84,
+    "START_DATE": "2025-07-21",
+    "END_DATE": "2026-03-02",
+    "RECORD_TIMESTAMP": "2025-08-27T15:50:53.557301",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 58,
+    "PROMOTION_NAME": "Versatile regional moratorium Sale",
+    "DISCOUNT_PERCENTAGE": null,
+    "START_DATE": "2025-07-28",
+    "END_DATE": "2026-01-21",
+    "RECORD_TIMESTAMP": "2025-08-20T15:50:53.557318",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 59,
+    "PROMOTION_NAME": "Cross-platform scalable intranet Sale",
+    "DISCOUNT_PERCENTAGE": 13.39,
+    "START_DATE": "2025-06-30",
+    "END_DATE": "2026-01-28",
+    "RECORD_TIMESTAMP": "2025-08-28T15:50:53.557341",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 60,
+    "PROMOTION_NAME": "Profit-focused optimal workforce Sale",
+    "DISCOUNT_PERCENTAGE": 38.18,
+    "START_DATE": "2025-06-16",
+    "END_DATE": "2025-11-29",
+    "RECORD_TIMESTAMP": "2025-08-26T15:50:53.557359",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 61,
+    "PROMOTION_NAME": "Automated static frame Sale",
+    "DISCOUNT_PERCENTAGE": null,
+    "START_DATE": "2025-07-18",
+    "END_DATE": "2025-10-11",
+    "RECORD_TIMESTAMP": "2025-08-18T15:50:53.557378",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 62,
+    "PROMOTION_NAME": "Operative didactic definition Sale",
+    "DISCOUNT_PERCENTAGE": 14.26,
+    "START_DATE": "2025-06-24",
+    "END_DATE": "2025-10-26",
+    "RECORD_TIMESTAMP": "2025-08-22T15:50:53.557405",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 63,
+    "PROMOTION_NAME": "Vision-oriented logistical neural-net Sale",
+    "DISCOUNT_PERCENTAGE": 40.98,
+    "START_DATE": "2025-07-08",
+    "END_DATE": "2025-11-26",
+    "RECORD_TIMESTAMP": "2025-08-29T15:50:53.557423",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 64,
+    "PROMOTION_NAME": "Multi-tiered bifurcated customer loyalty Sale",
+    "DISCOUNT_PERCENTAGE": null,
+    "START_DATE": "2025-07-30",
+    "END_DATE": "2026-02-04",
+    "RECORD_TIMESTAMP": "2025-09-06T15:50:53.557441",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 65,
+    "PROMOTION_NAME": "Phased bottom-line hardware Sale",
+    "DISCOUNT_PERCENTAGE": null,
+    "START_DATE": "2025-06-30",
+    "END_DATE": "2026-02-12",
+    "RECORD_TIMESTAMP": "2025-08-24T15:50:53.557458",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 66,
+    "PROMOTION_NAME": "Persistent incremental project Sale",
+    "DISCOUNT_PERCENTAGE": null,
+    "START_DATE": "2025-07-04",
+    "END_DATE": "2026-01-17",
+    "RECORD_TIMESTAMP": "2025-08-21T15:50:53.557477",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 67,
+    "PROMOTION_NAME": "Triple-buffered zero tolerance support Sale",
+    "DISCOUNT_PERCENTAGE": null,
+    "START_DATE": "2025-07-05",
+    "END_DATE": "2025-11-08",
+    "RECORD_TIMESTAMP": "2025-08-29T15:50:53.557495",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 68,
+    "PROMOTION_NAME": "Object-based 24hour hub Sale",
+    "DISCOUNT_PERCENTAGE": null,
+    "START_DATE": "2025-06-18",
+    "END_DATE": "2026-02-04",
+    "RECORD_TIMESTAMP": "2025-08-21T15:50:53.557512",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 69,
+    "PROMOTION_NAME": "Face-to-face motivating forecast Sale",
+    "DISCOUNT_PERCENTAGE": 41.62,
+    "START_DATE": "2025-06-27",
+    "END_DATE": "2025-12-25",
+    "RECORD_TIMESTAMP": "2025-08-11T15:50:53.557532",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 70,
+    "PROMOTION_NAME": "Future-proofed stable firmware Sale",
+    "DISCOUNT_PERCENTAGE": 35.24,
+    "START_DATE": "2025-07-22",
+    "END_DATE": "2025-11-09",
+    "RECORD_TIMESTAMP": "2025-09-02T15:50:53.557550",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 71,
+    "PROMOTION_NAME": "Integrated intangible service-desk Sale",
+    "DISCOUNT_PERCENTAGE": null,
+    "START_DATE": "2025-08-04",
+    "END_DATE": "2025-11-25",
+    "RECORD_TIMESTAMP": "2025-08-29T15:50:53.557567",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 72,
+    "PROMOTION_NAME": "Front-line 24hour instruction set Sale",
+    "DISCOUNT_PERCENTAGE": 27.99,
+    "START_DATE": "2025-07-16",
+    "END_DATE": "2025-11-14",
+    "RECORD_TIMESTAMP": "2025-08-22T15:50:53.557588",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 73,
+    "PROMOTION_NAME": "Automated 24/7 algorithm Sale",
+    "DISCOUNT_PERCENTAGE": null,
+    "START_DATE": "2025-07-15",
+    "END_DATE": "2025-11-26",
+    "RECORD_TIMESTAMP": "2025-08-25T15:50:53.557604",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 74,
+    "PROMOTION_NAME": "Distributed holistic model Sale",
+    "DISCOUNT_PERCENTAGE": 29.97,
+    "START_DATE": "2025-07-11",
+    "END_DATE": "2025-12-22",
+    "RECORD_TIMESTAMP": "2025-09-05T15:50:53.557625",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 75,
+    "PROMOTION_NAME": "User-centric radical functionalities Sale",
+    "DISCOUNT_PERCENTAGE": 19.16,
+    "START_DATE": "2025-07-14",
+    "END_DATE": "2025-10-23",
+    "RECORD_TIMESTAMP": "2025-08-13T15:50:53.557643",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 76,
+    "PROMOTION_NAME": "Managed composite orchestration Sale",
+    "DISCOUNT_PERCENTAGE": null,
+    "START_DATE": "2025-06-12",
+    "END_DATE": "2025-10-12",
+    "RECORD_TIMESTAMP": "2025-08-25T15:50:53.557660",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 77,
+    "PROMOTION_NAME": "Optional disintermediate open architecture Sale",
+    "DISCOUNT_PERCENTAGE": 13.78,
+    "START_DATE": "2025-07-18",
+    "END_DATE": "2026-03-02",
+    "RECORD_TIMESTAMP": "2025-08-24T15:50:53.557677",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 78,
+    "PROMOTION_NAME": "Object-based content-based pricing structure Sale",
+    "DISCOUNT_PERCENTAGE": null,
+    "START_DATE": "2025-07-16",
+    "END_DATE": "2026-02-12",
+    "RECORD_TIMESTAMP": "2025-08-27T15:50:53.557696",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 79,
+    "PROMOTION_NAME": "Stand-alone hybrid application Sale",
+    "DISCOUNT_PERCENTAGE": null,
+    "START_DATE": "2025-07-11",
+    "END_DATE": "2025-11-21",
+    "RECORD_TIMESTAMP": "2025-09-07T15:50:53.557713",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 80,
+    "PROMOTION_NAME": "Re-engineered interactive capacity Sale",
+    "DISCOUNT_PERCENTAGE": 40.81,
+    "START_DATE": "2025-07-28",
+    "END_DATE": "2025-12-23",
+    "RECORD_TIMESTAMP": "2025-09-08T15:50:53.557734",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 81,
+    "PROMOTION_NAME": "Sharable human-resource superstructure Sale",
+    "DISCOUNT_PERCENTAGE": null,
+    "START_DATE": "2025-07-28",
+    "END_DATE": "2026-02-24",
+    "RECORD_TIMESTAMP": "2025-08-31T15:50:53.557750",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 82,
+    "PROMOTION_NAME": "Enhanced impactful functionalities Sale",
+    "DISCOUNT_PERCENTAGE": 40.13,
+    "START_DATE": "2025-07-06",
+    "END_DATE": "2026-02-13",
+    "RECORD_TIMESTAMP": "2025-08-23T15:50:53.557768",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 83,
+    "PROMOTION_NAME": "Programmable cohesive Internet solution Sale",
+    "DISCOUNT_PERCENTAGE": 30.77,
+    "START_DATE": "2025-07-25",
+    "END_DATE": "2026-02-26",
+    "RECORD_TIMESTAMP": "2025-08-14T15:50:53.557786",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 84,
+    "PROMOTION_NAME": "Focused bandwidth-monitored strategy Sale",
+    "DISCOUNT_PERCENTAGE": null,
+    "START_DATE": "2025-07-08",
+    "END_DATE": "2025-10-20",
+    "RECORD_TIMESTAMP": "2025-08-16T15:50:53.557803",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 85,
+    "PROMOTION_NAME": "De-engineered motivating capability Sale",
+    "DISCOUNT_PERCENTAGE": null,
+    "START_DATE": "2025-07-08",
+    "END_DATE": "2025-12-04",
+    "RECORD_TIMESTAMP": "2025-08-27T15:50:53.557822",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 86,
+    "PROMOTION_NAME": "Self-enabling object-oriented toolset Sale",
+    "DISCOUNT_PERCENTAGE": 38.12,
+    "START_DATE": "2025-07-01",
+    "END_DATE": "2025-12-12",
+    "RECORD_TIMESTAMP": "2025-08-31T15:50:53.557840",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 87,
+    "PROMOTION_NAME": "Object-based well-modulated product Sale",
+    "DISCOUNT_PERCENTAGE": 25.24,
+    "START_DATE": "2025-07-20",
+    "END_DATE": "2025-11-01",
+    "RECORD_TIMESTAMP": "2025-08-26T15:50:53.557861",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 88,
+    "PROMOTION_NAME": "Fundamental neutral complexity Sale",
+    "DISCOUNT_PERCENTAGE": 39.9,
+    "START_DATE": "2025-07-27",
+    "END_DATE": "2025-12-02",
+    "RECORD_TIMESTAMP": "2025-08-15T15:50:53.557879",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 89,
+    "PROMOTION_NAME": "Inverse demand-driven array Sale",
+    "DISCOUNT_PERCENTAGE": null,
+    "START_DATE": "2025-06-17",
+    "END_DATE": "2026-01-27",
+    "RECORD_TIMESTAMP": "2025-09-04T15:50:53.557896",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 90,
+    "PROMOTION_NAME": "Cross-group 4thgeneration Internet solution Sale",
+    "DISCOUNT_PERCENTAGE": 40.32,
+    "START_DATE": "2025-06-20",
+    "END_DATE": "2025-12-01",
+    "RECORD_TIMESTAMP": "2025-08-15T15:50:53.557919",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 91,
+    "PROMOTION_NAME": "Advanced responsive throughput Sale",
+    "DISCOUNT_PERCENTAGE": 30.65,
+    "START_DATE": "2025-07-08",
+    "END_DATE": "2025-12-20",
+    "RECORD_TIMESTAMP": "2025-08-21T15:50:53.557937",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 92,
+    "PROMOTION_NAME": "Reverse-engineered coherent algorithm Sale",
+    "DISCOUNT_PERCENTAGE": 19.56,
+    "START_DATE": "2025-06-27",
+    "END_DATE": "2025-12-23",
+    "RECORD_TIMESTAMP": "2025-08-31T15:50:53.557954",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 93,
+    "PROMOTION_NAME": "Secured tertiary moratorium Sale",
+    "DISCOUNT_PERCENTAGE": null,
+    "START_DATE": "2025-06-12",
+    "END_DATE": "2026-02-18",
+    "RECORD_TIMESTAMP": "2025-08-12T15:50:53.557973",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 94,
+    "PROMOTION_NAME": "Configurable object-oriented implementation Sale",
+    "DISCOUNT_PERCENTAGE": 11.1,
+    "START_DATE": "2025-06-24",
+    "END_DATE": "2026-01-23",
+    "RECORD_TIMESTAMP": "2025-08-11T15:50:53.557991",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 95,
+    "PROMOTION_NAME": "Assimilated value-added superstructure Sale",
+    "DISCOUNT_PERCENTAGE": 49.66,
+    "START_DATE": "2025-06-17",
+    "END_DATE": "2025-11-11",
+    "RECORD_TIMESTAMP": "2025-08-18T15:50:53.558009",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 96,
+    "PROMOTION_NAME": "De-engineered logistical productivity Sale",
+    "DISCOUNT_PERCENTAGE": 16.24,
+    "START_DATE": "2025-06-27",
+    "END_DATE": "2025-12-31",
+    "RECORD_TIMESTAMP": "2025-08-14T15:50:53.558028",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 97,
+    "PROMOTION_NAME": "Self-enabling zero-defect help-desk Sale",
+    "DISCOUNT_PERCENTAGE": 39.27,
+    "START_DATE": "2025-06-29",
+    "END_DATE": "2026-01-18",
+    "RECORD_TIMESTAMP": "2025-08-25T15:50:53.558046",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 98,
+    "PROMOTION_NAME": "Enterprise-wide disintermediate projection Sale",
+    "DISCOUNT_PERCENTAGE": 30.98,
+    "START_DATE": "2025-07-25",
+    "END_DATE": "2026-01-24",
+    "RECORD_TIMESTAMP": "2025-08-28T15:50:53.558064",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 99,
+    "PROMOTION_NAME": "Face-to-face exuding core Sale",
+    "DISCOUNT_PERCENTAGE": null,
+    "START_DATE": "2025-08-07",
+    "END_DATE": "2025-11-02",
+    "RECORD_TIMESTAMP": "2025-08-28T15:50:53.558081",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "PROMOTION_ID": 100,
+    "PROMOTION_NAME": "Public-key dynamic success Sale",
+    "DISCOUNT_PERCENTAGE": null,
+    "START_DATE": "2025-06-28",
+    "END_DATE": "2026-01-12",
+    "RECORD_TIMESTAMP": "2025-08-26T15:50:53.558098",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  }
+]

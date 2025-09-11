@@ -1,0 +1,1002 @@
+[
+  {
+    "WAREHOUSE_ID": 1,
+    "WAREHOUSE_NAME": "Warehouse Lake Gina 1",
+    "LOCATION": "South Alison, SD",
+    "MANAGER_ID": 100,
+    "CAPACITY": 99742,
+    "RECORD_TIMESTAMP": "2025-08-26T15:50:53.524737",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 2,
+    "WAREHOUSE_NAME": "Warehouse West Taylorland 2",
+    "LOCATION": "Evansberg, TX",
+    "MANAGER_ID": 90,
+    "CAPACITY": 72722,
+    "RECORD_TIMESTAMP": "2025-08-20T15:50:53.524854",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 3,
+    "WAREHOUSE_NAME": "Warehouse Mckenziehaven 3",
+    "LOCATION": "Phillipston, OH",
+    "MANAGER_ID": 24,
+    "CAPACITY": 27675,
+    "RECORD_TIMESTAMP": "2025-09-07T15:50:53.524965",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 4,
+    "WAREHOUSE_NAME": "Warehouse North Williamhaven 4",
+    "LOCATION": "Gutierrezmouth, TN",
+    "MANAGER_ID": 92,
+    "CAPACITY": 69988,
+    "RECORD_TIMESTAMP": "2025-09-08T15:50:53.525076",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 5,
+    "WAREHOUSE_NAME": "Warehouse Michaelshire 5",
+    "LOCATION": "Port Wesleyville, WA",
+    "MANAGER_ID": 38,
+    "CAPACITY": 36422,
+    "RECORD_TIMESTAMP": "2025-09-08T15:50:53.525171",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 6,
+    "WAREHOUSE_NAME": "Warehouse Whiteburgh 6",
+    "LOCATION": "Williamschester, FM",
+    "MANAGER_ID": 26,
+    "CAPACITY": 15492,
+    "RECORD_TIMESTAMP": "2025-08-30T15:50:53.525295",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 7,
+    "WAREHOUSE_NAME": "Warehouse Leemouth 7",
+    "LOCATION": "Hansonview, MA",
+    "MANAGER_ID": 40,
+    "CAPACITY": 77552,
+    "RECORD_TIMESTAMP": "2025-08-28T15:50:53.525406",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 8,
+    "WAREHOUSE_NAME": "Warehouse East Jacob 8",
+    "LOCATION": "Monicaville, NE",
+    "MANAGER_ID": 70,
+    "CAPACITY": 72049,
+    "RECORD_TIMESTAMP": "2025-09-01T15:50:53.525498",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 9,
+    "WAREHOUSE_NAME": "Warehouse North Randalltown 9",
+    "LOCATION": "Lake Thomas, UT",
+    "MANAGER_ID": 5,
+    "CAPACITY": 94790,
+    "RECORD_TIMESTAMP": "2025-09-03T15:50:53.525595",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 10,
+    "WAREHOUSE_NAME": "Warehouse Meltonfort 10",
+    "LOCATION": "Christinestad, UT",
+    "MANAGER_ID": 37,
+    "CAPACITY": 56789,
+    "RECORD_TIMESTAMP": "2025-08-13T15:50:53.525706",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 11,
+    "WAREHOUSE_NAME": "Warehouse Ballardland 11",
+    "LOCATION": "East Alexander, DE",
+    "MANAGER_ID": 100,
+    "CAPACITY": 16265,
+    "RECORD_TIMESTAMP": "2025-08-13T15:50:53.525816",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 12,
+    "WAREHOUSE_NAME": "Warehouse Lake Taratown 12",
+    "LOCATION": "South Deborah, SD",
+    "MANAGER_ID": 84,
+    "CAPACITY": 53506,
+    "RECORD_TIMESTAMP": "2025-09-01T15:50:53.525911",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 13,
+    "WAREHOUSE_NAME": "Warehouse South Megan 13",
+    "LOCATION": "North Kevin, NH",
+    "MANAGER_ID": 16,
+    "CAPACITY": 58237,
+    "RECORD_TIMESTAMP": "2025-08-27T15:50:53.526004",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 14,
+    "WAREHOUSE_NAME": "Warehouse South Robert 14",
+    "LOCATION": "East Rachelmouth, NM",
+    "MANAGER_ID": 52,
+    "CAPACITY": 67637,
+    "RECORD_TIMESTAMP": "2025-08-12T15:50:53.526098",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 15,
+    "WAREHOUSE_NAME": "Warehouse Smithmouth 15",
+    "LOCATION": "East Kenneth, MP",
+    "MANAGER_ID": 50,
+    "CAPACITY": 54438,
+    "RECORD_TIMESTAMP": "2025-09-04T15:50:53.526207",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 16,
+    "WAREHOUSE_NAME": "Warehouse Williamstown 16",
+    "LOCATION": "Lake Melaniechester, MT",
+    "MANAGER_ID": 64,
+    "CAPACITY": 75211,
+    "RECORD_TIMESTAMP": "2025-08-29T15:50:53.526321",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 17,
+    "WAREHOUSE_NAME": "Warehouse Mclaughlinside 17",
+    "LOCATION": "Benjaminfurt, NM",
+    "MANAGER_ID": 67,
+    "CAPACITY": 44959,
+    "RECORD_TIMESTAMP": "2025-08-15T15:50:53.526433",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 18,
+    "WAREHOUSE_NAME": "Warehouse Hallton 18",
+    "LOCATION": "South Barbaraside, CA",
+    "MANAGER_ID": 11,
+    "CAPACITY": 65640,
+    "RECORD_TIMESTAMP": "2025-09-07T15:50:53.526543",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 19,
+    "WAREHOUSE_NAME": "Warehouse Patriciachester 19",
+    "LOCATION": "Wilsonstad, NV",
+    "MANAGER_ID": 56,
+    "CAPACITY": 88964,
+    "RECORD_TIMESTAMP": "2025-08-14T15:50:53.526651",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 20,
+    "WAREHOUSE_NAME": "Warehouse Smithport 20",
+    "LOCATION": "South Maurice, IN",
+    "MANAGER_ID": 24,
+    "CAPACITY": 81496,
+    "RECORD_TIMESTAMP": "2025-08-31T15:50:53.526760",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 21,
+    "WAREHOUSE_NAME": "Warehouse New Regina 21",
+    "LOCATION": "Sandramouth, DC",
+    "MANAGER_ID": 42,
+    "CAPACITY": 23447,
+    "RECORD_TIMESTAMP": "2025-09-07T15:50:53.526851",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 22,
+    "WAREHOUSE_NAME": "Warehouse Jenniferfurt 22",
+    "LOCATION": "Whitakerstad, WY",
+    "MANAGER_ID": 42,
+    "CAPACITY": 96628,
+    "RECORD_TIMESTAMP": "2025-08-31T15:50:53.526959",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 23,
+    "WAREHOUSE_NAME": "Warehouse Marshburgh 23",
+    "LOCATION": "West Hannah, CO",
+    "MANAGER_ID": 40,
+    "CAPACITY": 68447,
+    "RECORD_TIMESTAMP": "2025-08-21T15:50:53.527068",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 24,
+    "WAREHOUSE_NAME": "Warehouse Andersonborough 24",
+    "LOCATION": "New Travis, WY",
+    "MANAGER_ID": 92,
+    "CAPACITY": 65851,
+    "RECORD_TIMESTAMP": "2025-09-04T15:50:53.527177",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 25,
+    "WAREHOUSE_NAME": "Warehouse Hahnfort 25",
+    "LOCATION": "Jimmyside, AR",
+    "MANAGER_ID": 89,
+    "CAPACITY": 68183,
+    "RECORD_TIMESTAMP": "2025-08-29T15:50:53.527284",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 26,
+    "WAREHOUSE_NAME": "Warehouse West Nicolestad 26",
+    "LOCATION": "East Maria, MH",
+    "MANAGER_ID": 58,
+    "CAPACITY": 15551,
+    "RECORD_TIMESTAMP": "2025-08-17T15:50:53.527379",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 27,
+    "WAREHOUSE_NAME": "Warehouse Port Brycechester 27",
+    "LOCATION": "New Jeremyside, IN",
+    "MANAGER_ID": 46,
+    "CAPACITY": 90589,
+    "RECORD_TIMESTAMP": "2025-08-27T15:50:53.527476",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 28,
+    "WAREHOUSE_NAME": "Warehouse Scottmouth 28",
+    "LOCATION": "Kaylaside, KY",
+    "MANAGER_ID": 36,
+    "CAPACITY": 93816,
+    "RECORD_TIMESTAMP": "2025-08-15T15:50:53.527589",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 29,
+    "WAREHOUSE_NAME": "Warehouse Port Hannah 29",
+    "LOCATION": "Lake Brentmouth, AS",
+    "MANAGER_ID": 8,
+    "CAPACITY": 19835,
+    "RECORD_TIMESTAMP": "2025-08-19T15:50:53.527684",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 30,
+    "WAREHOUSE_NAME": "Warehouse Estesville 30",
+    "LOCATION": "Port Cherylville, GU",
+    "MANAGER_ID": 82,
+    "CAPACITY": 63242,
+    "RECORD_TIMESTAMP": "2025-08-29T15:50:53.527798",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 31,
+    "WAREHOUSE_NAME": "Warehouse New Danielville 31",
+    "LOCATION": "West Eric, LA",
+    "MANAGER_ID": 66,
+    "CAPACITY": 99051,
+    "RECORD_TIMESTAMP": "2025-09-04T15:50:53.527893",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 32,
+    "WAREHOUSE_NAME": "Warehouse Gillfort 32",
+    "LOCATION": "East Deborahmouth, GU",
+    "MANAGER_ID": 4,
+    "CAPACITY": 28714,
+    "RECORD_TIMESTAMP": "2025-08-13T15:50:53.528004",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 33,
+    "WAREHOUSE_NAME": "Warehouse North Melinda 33",
+    "LOCATION": "Montestown, IA",
+    "MANAGER_ID": 78,
+    "CAPACITY": 98878,
+    "RECORD_TIMESTAMP": "2025-08-15T15:50:53.528112",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 34,
+    "WAREHOUSE_NAME": "Warehouse Petersonhaven 34",
+    "LOCATION": "North Joseph, VT",
+    "MANAGER_ID": 57,
+    "CAPACITY": 14561,
+    "RECORD_TIMESTAMP": "2025-09-05T15:50:53.528220",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 35,
+    "WAREHOUSE_NAME": "Warehouse Wardbury 35",
+    "LOCATION": "Port Karen, MT",
+    "MANAGER_ID": 9,
+    "CAPACITY": 40932,
+    "RECORD_TIMESTAMP": "2025-08-16T15:50:53.528328",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 36,
+    "WAREHOUSE_NAME": "Warehouse East Laurie 36",
+    "LOCATION": "Hardinmouth, PR",
+    "MANAGER_ID": 83,
+    "CAPACITY": 58015,
+    "RECORD_TIMESTAMP": "2025-08-29T15:50:53.528436",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 37,
+    "WAREHOUSE_NAME": "Warehouse Sherrymouth 37",
+    "LOCATION": "Port Alejandro, AS",
+    "MANAGER_ID": 50,
+    "CAPACITY": 84349,
+    "RECORD_TIMESTAMP": "2025-09-08T15:50:53.528527",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 38,
+    "WAREHOUSE_NAME": "Warehouse North Matthewfurt 38",
+    "LOCATION": "South Bryan, WV",
+    "MANAGER_ID": 78,
+    "CAPACITY": 30111,
+    "RECORD_TIMESTAMP": "2025-08-19T15:50:53.528622",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 39,
+    "WAREHOUSE_NAME": "Warehouse Lake Sandraberg 39",
+    "LOCATION": "Lake Tinahaven, LA",
+    "MANAGER_ID": 58,
+    "CAPACITY": 58623,
+    "RECORD_TIMESTAMP": "2025-08-29T15:50:53.528720",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 40,
+    "WAREHOUSE_NAME": "Warehouse Moralesside 40",
+    "LOCATION": "Jennifermouth, PW",
+    "MANAGER_ID": 57,
+    "CAPACITY": 20077,
+    "RECORD_TIMESTAMP": "2025-08-22T15:50:53.528828",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 41,
+    "WAREHOUSE_NAME": "Warehouse Alanview 41",
+    "LOCATION": "Lake Richard, SD",
+    "MANAGER_ID": 18,
+    "CAPACITY": 79397,
+    "RECORD_TIMESTAMP": "2025-08-29T15:50:53.528929",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 42,
+    "WAREHOUSE_NAME": "Warehouse New Claudia 42",
+    "LOCATION": "Terryfurt, WI",
+    "MANAGER_ID": 51,
+    "CAPACITY": 51207,
+    "RECORD_TIMESTAMP": "2025-08-20T15:50:53.529044",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 43,
+    "WAREHOUSE_NAME": "Warehouse West Christopher 43",
+    "LOCATION": "Peterberg, NC",
+    "MANAGER_ID": 36,
+    "CAPACITY": 42717,
+    "RECORD_TIMESTAMP": "2025-09-06T15:50:53.529141",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 44,
+    "WAREHOUSE_NAME": "Warehouse Jasonhaven 44",
+    "LOCATION": "Adrienneburgh, AK",
+    "MANAGER_ID": 4,
+    "CAPACITY": 34385,
+    "RECORD_TIMESTAMP": "2025-08-25T15:50:53.529239",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 45,
+    "WAREHOUSE_NAME": "Warehouse Port Amberview 45",
+    "LOCATION": "Port Kim, VA",
+    "MANAGER_ID": 67,
+    "CAPACITY": 60723,
+    "RECORD_TIMESTAMP": "2025-08-11T15:50:53.529381",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 46,
+    "WAREHOUSE_NAME": "Warehouse Benitezville 46",
+    "LOCATION": "Port Nathanhaven, MI",
+    "MANAGER_ID": 72,
+    "CAPACITY": 25435,
+    "RECORD_TIMESTAMP": "2025-09-01T15:50:53.529506",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 47,
+    "WAREHOUSE_NAME": "Warehouse North Katherineville 47",
+    "LOCATION": "Evanstown, NH",
+    "MANAGER_ID": 100,
+    "CAPACITY": 44116,
+    "RECORD_TIMESTAMP": "2025-08-18T15:50:53.529621",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 48,
+    "WAREHOUSE_NAME": "Warehouse Tonyashire 48",
+    "LOCATION": "West Kevin, TN",
+    "MANAGER_ID": 58,
+    "CAPACITY": 38124,
+    "RECORD_TIMESTAMP": "2025-08-21T15:50:53.529719",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 49,
+    "WAREHOUSE_NAME": "Warehouse Lake Nicholas 49",
+    "LOCATION": "North Mark, OR",
+    "MANAGER_ID": 37,
+    "CAPACITY": 74382,
+    "RECORD_TIMESTAMP": "2025-09-03T15:50:53.529818",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 50,
+    "WAREHOUSE_NAME": "Warehouse Port Kimberly 50",
+    "LOCATION": "Garciachester, MP",
+    "MANAGER_ID": 16,
+    "CAPACITY": 27790,
+    "RECORD_TIMESTAMP": "2025-08-13T15:50:53.529935",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 51,
+    "WAREHOUSE_NAME": "Warehouse Millerton 51",
+    "LOCATION": "Beasleyfort, IL",
+    "MANAGER_ID": 10,
+    "CAPACITY": 69250,
+    "RECORD_TIMESTAMP": "2025-09-04T15:50:53.530071",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 52,
+    "WAREHOUSE_NAME": "Warehouse Millerhaven 52",
+    "LOCATION": "Chapmanhaven, WI",
+    "MANAGER_ID": 92,
+    "CAPACITY": 68341,
+    "RECORD_TIMESTAMP": "2025-09-07T15:50:53.530202",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 53,
+    "WAREHOUSE_NAME": "Warehouse Wigginsshire 53",
+    "LOCATION": "Fieldsmouth, UT",
+    "MANAGER_ID": 88,
+    "CAPACITY": 51889,
+    "RECORD_TIMESTAMP": "2025-08-19T15:50:53.530332",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 54,
+    "WAREHOUSE_NAME": "Warehouse Dennischester 54",
+    "LOCATION": "East William, NM",
+    "MANAGER_ID": 45,
+    "CAPACITY": 18511,
+    "RECORD_TIMESTAMP": "2025-08-23T15:50:53.530447",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 55,
+    "WAREHOUSE_NAME": "Warehouse Andersonhaven 55",
+    "LOCATION": "Lake Jasonfort, AZ",
+    "MANAGER_ID": 70,
+    "CAPACITY": 48058,
+    "RECORD_TIMESTAMP": "2025-08-12T15:50:53.530561",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 56,
+    "WAREHOUSE_NAME": "Warehouse New Mike 56",
+    "LOCATION": "New Melissaville, DE",
+    "MANAGER_ID": 39,
+    "CAPACITY": 30644,
+    "RECORD_TIMESTAMP": "2025-08-18T15:50:53.530656",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 57,
+    "WAREHOUSE_NAME": "Warehouse Ashleyton 57",
+    "LOCATION": "North Nathan, MN",
+    "MANAGER_ID": 91,
+    "CAPACITY": 93584,
+    "RECORD_TIMESTAMP": "2025-09-04T15:50:53.530748",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 58,
+    "WAREHOUSE_NAME": "Warehouse Kellytown 58",
+    "LOCATION": "East Kristen, MT",
+    "MANAGER_ID": 47,
+    "CAPACITY": 76683,
+    "RECORD_TIMESTAMP": "2025-09-02T15:50:53.530840",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 59,
+    "WAREHOUSE_NAME": "Warehouse West Pamelaborough 59",
+    "LOCATION": "Port Jodi, AL",
+    "MANAGER_ID": 16,
+    "CAPACITY": 36342,
+    "RECORD_TIMESTAMP": "2025-08-15T15:50:53.530935",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 60,
+    "WAREHOUSE_NAME": "Warehouse New Michaelton 60",
+    "LOCATION": "Olsonport, OK",
+    "MANAGER_ID": 18,
+    "CAPACITY": 41029,
+    "RECORD_TIMESTAMP": "2025-08-15T15:50:53.531047",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 61,
+    "WAREHOUSE_NAME": "Warehouse Mcculloughfurt 61",
+    "LOCATION": "Davenportberg, WV",
+    "MANAGER_ID": 64,
+    "CAPACITY": 13445,
+    "RECORD_TIMESTAMP": "2025-08-29T15:50:53.531172",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 62,
+    "WAREHOUSE_NAME": "Warehouse New Dana 62",
+    "LOCATION": "Contrerasberg, VI",
+    "MANAGER_ID": 71,
+    "CAPACITY": 85009,
+    "RECORD_TIMESTAMP": "2025-08-29T15:50:53.531280",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 63,
+    "WAREHOUSE_NAME": "Warehouse Christopherchester 63",
+    "LOCATION": "Hallfurt, MA",
+    "MANAGER_ID": 60,
+    "CAPACITY": 82305,
+    "RECORD_TIMESTAMP": "2025-09-05T15:50:53.531389",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 64,
+    "WAREHOUSE_NAME": "Warehouse Lake Pamelaview 64",
+    "LOCATION": "Port Gabrieltown, OK",
+    "MANAGER_ID": 79,
+    "CAPACITY": 21300,
+    "RECORD_TIMESTAMP": "2025-09-07T15:50:53.531487",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 65,
+    "WAREHOUSE_NAME": "Warehouse Annville 65",
+    "LOCATION": "East Stephanieside, OK",
+    "MANAGER_ID": 40,
+    "CAPACITY": 62187,
+    "RECORD_TIMESTAMP": "2025-08-18T15:50:53.531582",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 66,
+    "WAREHOUSE_NAME": "Warehouse New Aimeefort 66",
+    "LOCATION": "North Dominiqueside, HI",
+    "MANAGER_ID": 93,
+    "CAPACITY": 72739,
+    "RECORD_TIMESTAMP": "2025-08-24T15:50:53.531680",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 67,
+    "WAREHOUSE_NAME": "Warehouse West Kristinbury 67",
+    "LOCATION": "Millerside, PA",
+    "MANAGER_ID": 53,
+    "CAPACITY": 63665,
+    "RECORD_TIMESTAMP": "2025-08-14T15:50:53.531792",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 68,
+    "WAREHOUSE_NAME": "Warehouse Richardton 68",
+    "LOCATION": "Atkinstown, MA",
+    "MANAGER_ID": 74,
+    "CAPACITY": 19666,
+    "RECORD_TIMESTAMP": "2025-09-05T15:50:53.531902",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 69,
+    "WAREHOUSE_NAME": "Warehouse Whitetown 69",
+    "LOCATION": "Patrickland, DE",
+    "MANAGER_ID": 41,
+    "CAPACITY": 94192,
+    "RECORD_TIMESTAMP": "2025-09-07T15:50:53.532013",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 70,
+    "WAREHOUSE_NAME": "Warehouse New Garyberg 70",
+    "LOCATION": "West Kayla, FL",
+    "MANAGER_ID": 58,
+    "CAPACITY": 71057,
+    "RECORD_TIMESTAMP": "2025-08-19T15:50:53.532109",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 71,
+    "WAREHOUSE_NAME": "Warehouse Stephanieburgh 71",
+    "LOCATION": "New Susanburgh, AK",
+    "MANAGER_ID": 67,
+    "CAPACITY": 55156,
+    "RECORD_TIMESTAMP": "2025-09-05T15:50:53.532205",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 72,
+    "WAREHOUSE_NAME": "Warehouse West Petermouth 72",
+    "LOCATION": "South Patricia, KS",
+    "MANAGER_ID": 100,
+    "CAPACITY": 82260,
+    "RECORD_TIMESTAMP": "2025-08-20T15:50:53.532300",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 73,
+    "WAREHOUSE_NAME": "Warehouse Davidville 73",
+    "LOCATION": "East Johnshire, IA",
+    "MANAGER_ID": 76,
+    "CAPACITY": 33850,
+    "RECORD_TIMESTAMP": "2025-08-16T15:50:53.532465",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 74,
+    "WAREHOUSE_NAME": "Warehouse Romerohaven 74",
+    "LOCATION": "Averyview, AR",
+    "MANAGER_ID": 17,
+    "CAPACITY": 66704,
+    "RECORD_TIMESTAMP": "2025-08-24T15:50:53.532606",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 75,
+    "WAREHOUSE_NAME": "Warehouse Stevenchester 75",
+    "LOCATION": "South Anthonybury, PW",
+    "MANAGER_ID": 8,
+    "CAPACITY": 26274,
+    "RECORD_TIMESTAMP": "2025-08-24T15:50:53.532705",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 76,
+    "WAREHOUSE_NAME": "Warehouse West Angelashire 76",
+    "LOCATION": "East Kathrynberg, ME",
+    "MANAGER_ID": 20,
+    "CAPACITY": 49862,
+    "RECORD_TIMESTAMP": "2025-09-04T15:50:53.532807",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 77,
+    "WAREHOUSE_NAME": "Warehouse Griffinhaven 77",
+    "LOCATION": "Port Tammy, MN",
+    "MANAGER_ID": 21,
+    "CAPACITY": 52291,
+    "RECORD_TIMESTAMP": "2025-08-11T15:50:53.532920",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 78,
+    "WAREHOUSE_NAME": "Warehouse Port John 78",
+    "LOCATION": "Aliside, NV",
+    "MANAGER_ID": 91,
+    "CAPACITY": 39552,
+    "RECORD_TIMESTAMP": "2025-08-29T15:50:53.533035",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 79,
+    "WAREHOUSE_NAME": "Warehouse North Lisaport 79",
+    "LOCATION": "North Brian, PW",
+    "MANAGER_ID": 67,
+    "CAPACITY": 47230,
+    "RECORD_TIMESTAMP": "2025-08-13T15:50:53.533134",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 80,
+    "WAREHOUSE_NAME": "Warehouse Nelsonview 80",
+    "LOCATION": "Kiddborough, OR",
+    "MANAGER_ID": 11,
+    "CAPACITY": 42847,
+    "RECORD_TIMESTAMP": "2025-09-03T15:50:53.533264",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 81,
+    "WAREHOUSE_NAME": "Warehouse Brandonside 81",
+    "LOCATION": "West Christopherville, MP",
+    "MANAGER_ID": 82,
+    "CAPACITY": 82199,
+    "RECORD_TIMESTAMP": "2025-09-01T15:50:53.533362",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 82,
+    "WAREHOUSE_NAME": "Warehouse Lake Angela 82",
+    "LOCATION": "Natalieborough, RI",
+    "MANAGER_ID": 17,
+    "CAPACITY": 91922,
+    "RECORD_TIMESTAMP": "2025-08-31T15:50:53.533457",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 83,
+    "WAREHOUSE_NAME": "Warehouse Nicolemouth 83",
+    "LOCATION": "Tiffanymouth, KY",
+    "MANAGER_ID": 79,
+    "CAPACITY": 79924,
+    "RECORD_TIMESTAMP": "2025-09-07T15:50:53.533552",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 84,
+    "WAREHOUSE_NAME": "Warehouse Lake Tonya 84",
+    "LOCATION": "Jasonmouth, AK",
+    "MANAGER_ID": 65,
+    "CAPACITY": 94015,
+    "RECORD_TIMESTAMP": "2025-09-04T15:50:53.533646",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 85,
+    "WAREHOUSE_NAME": "Warehouse Lake Sandra 85",
+    "LOCATION": "Smithtown, TX",
+    "MANAGER_ID": 76,
+    "CAPACITY": 86106,
+    "RECORD_TIMESTAMP": "2025-09-05T15:50:53.533762",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 86,
+    "WAREHOUSE_NAME": "Warehouse South Angela 86",
+    "LOCATION": "Farmerside, CO",
+    "MANAGER_ID": 22,
+    "CAPACITY": 96341,
+    "RECORD_TIMESTAMP": "2025-08-21T15:50:53.533875",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 87,
+    "WAREHOUSE_NAME": "Warehouse New Anthonymouth 87",
+    "LOCATION": "West Teresafurt, GU",
+    "MANAGER_ID": 93,
+    "CAPACITY": 89316,
+    "RECORD_TIMESTAMP": "2025-08-30T15:50:53.534093",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 88,
+    "WAREHOUSE_NAME": "Warehouse Paultown 88",
+    "LOCATION": "South Mitchellborough, NV",
+    "MANAGER_ID": 73,
+    "CAPACITY": 15399,
+    "RECORD_TIMESTAMP": "2025-08-14T15:50:53.534203",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 89,
+    "WAREHOUSE_NAME": "Warehouse East Juliaview 89",
+    "LOCATION": "Jamesport, AS",
+    "MANAGER_ID": 4,
+    "CAPACITY": 20646,
+    "RECORD_TIMESTAMP": "2025-09-08T15:50:53.534300",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 90,
+    "WAREHOUSE_NAME": "Warehouse East Tina 90",
+    "LOCATION": "Benjaminfort, MH",
+    "MANAGER_ID": 83,
+    "CAPACITY": 85598,
+    "RECORD_TIMESTAMP": "2025-09-01T15:50:53.534401",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 91,
+    "WAREHOUSE_NAME": "Warehouse North James 91",
+    "LOCATION": "Rodriguezview, OK",
+    "MANAGER_ID": 84,
+    "CAPACITY": 37631,
+    "RECORD_TIMESTAMP": "2025-08-16T15:50:53.534519",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 92,
+    "WAREHOUSE_NAME": "Warehouse Jacksonborough 92",
+    "LOCATION": "North Brianna, WA",
+    "MANAGER_ID": 74,
+    "CAPACITY": 64602,
+    "RECORD_TIMESTAMP": "2025-08-21T15:50:53.534628",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 93,
+    "WAREHOUSE_NAME": "Warehouse East Jordanshire 93",
+    "LOCATION": "New Jessica, KY",
+    "MANAGER_ID": 82,
+    "CAPACITY": 13969,
+    "RECORD_TIMESTAMP": "2025-08-25T15:50:53.534725",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 94,
+    "WAREHOUSE_NAME": "Warehouse Port Erica 94",
+    "LOCATION": "Erinmouth, AL",
+    "MANAGER_ID": 81,
+    "CAPACITY": 81509,
+    "RECORD_TIMESTAMP": "2025-08-31T15:50:53.534818",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 95,
+    "WAREHOUSE_NAME": "Warehouse Davidsonton 95",
+    "LOCATION": "Ryanchester, KY",
+    "MANAGER_ID": 83,
+    "CAPACITY": 49596,
+    "RECORD_TIMESTAMP": "2025-08-25T15:50:53.534936",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 96,
+    "WAREHOUSE_NAME": "Warehouse Lake Aprilfort 96",
+    "LOCATION": "Zacharyton, FM",
+    "MANAGER_ID": 32,
+    "CAPACITY": 99783,
+    "RECORD_TIMESTAMP": "2025-08-28T15:50:53.535031",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 97,
+    "WAREHOUSE_NAME": "Warehouse North Joshua 97",
+    "LOCATION": "Patelmouth, AL",
+    "MANAGER_ID": 39,
+    "CAPACITY": 69446,
+    "RECORD_TIMESTAMP": "2025-09-07T15:50:53.535142",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 98,
+    "WAREHOUSE_NAME": "Warehouse Leeland 98",
+    "LOCATION": "Lake Jeremiahchester, CA",
+    "MANAGER_ID": 89,
+    "CAPACITY": 17852,
+    "RECORD_TIMESTAMP": "2025-09-04T15:50:53.535255",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 99,
+    "WAREHOUSE_NAME": "Warehouse East Frank 99",
+    "LOCATION": "Bryanville, AK",
+    "MANAGER_ID": 57,
+    "CAPACITY": 64476,
+    "RECORD_TIMESTAMP": "2025-08-25T15:50:53.535349",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "WAREHOUSE_ID": 100,
+    "WAREHOUSE_NAME": "Warehouse Reynoldstown 100",
+    "LOCATION": "Marybury, CT",
+    "MANAGER_ID": 60,
+    "CAPACITY": 36741,
+    "RECORD_TIMESTAMP": "2025-08-30T15:50:53.535457",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  }
+]

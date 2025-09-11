@@ -1,0 +1,182 @@
+[
+  {
+    "TERRITORY_ID": 26,
+    "TERRITORY_NAME": "Nebraska Valley",
+    "REGION": "South",
+    "MANAGER_ID": 91,
+    "RECORD_TIMESTAMP": "2025-09-10T14:28:29.708597",
+    "DATA_VERSION": 4,
+    "RECORD_STATUS": "RESTRUCTURED"
+  },
+  {
+    "TERRITORY_ID": 44,
+    "TERRITORY_NAME": "North Dakota South",
+    "REGION": "West",
+    "MANAGER_ID": 7,
+    "RECORD_TIMESTAMP": "2025-09-10T14:18:29.708609",
+    "DATA_VERSION": 2,
+    "RECORD_STATUS": "RESTRUCTURED"
+  },
+  {
+    "TERRITORY_ID": 39,
+    "TERRITORY_NAME": "South Dakota South",
+    "REGION": "South",
+    "MANAGER_ID": 22,
+    "RECORD_TIMESTAMP": "2025-09-10T13:57:29.708617",
+    "DATA_VERSION": 2,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 60,
+    "TERRITORY_NAME": "Rhode Island North",
+    "REGION": "Central",
+    "MANAGER_ID": 57,
+    "RECORD_TIMESTAMP": "2025-09-10T14:51:29.708626",
+    "DATA_VERSION": 3,
+    "RECORD_STATUS": "RESTRUCTURED"
+  },
+  {
+    "TERRITORY_ID": 56,
+    "TERRITORY_NAME": "Massachusetts Metro",
+    "REGION": "East",
+    "MANAGER_ID": 51,
+    "RECORD_TIMESTAMP": "2025-09-10T14:06:29.708635",
+    "DATA_VERSION": 2,
+    "RECORD_STATUS": "RESTRUCTURED"
+  },
+  {
+    "TERRITORY_ID": 34,
+    "TERRITORY_NAME": "Maryland Valley",
+    "REGION": "East",
+    "MANAGER_ID": 78,
+    "RECORD_TIMESTAMP": "2025-09-10T14:44:29.708643",
+    "DATA_VERSION": 2,
+    "RECORD_STATUS": "RESTRUCTURED"
+  },
+  {
+    "TERRITORY_ID": 14,
+    "TERRITORY_NAME": "Wyoming North",
+    "REGION": "South",
+    "MANAGER_ID": 67,
+    "RECORD_TIMESTAMP": "2025-09-10T14:28:29.708651",
+    "DATA_VERSION": 2,
+    "RECORD_STATUS": "INACTIVE"
+  },
+  {
+    "TERRITORY_ID": 93,
+    "TERRITORY_NAME": "South Dakota South",
+    "REGION": "Central",
+    "MANAGER_ID": 17,
+    "RECORD_TIMESTAMP": "2025-09-10T14:38:29.708659",
+    "DATA_VERSION": 4,
+    "RECORD_STATUS": "RESTRUCTURED"
+  },
+  {
+    "TERRITORY_ID": 51,
+    "TERRITORY_NAME": "Nevada Valley",
+    "REGION": "Central",
+    "MANAGER_ID": 90,
+    "RECORD_TIMESTAMP": "2025-09-10T15:22:29.708667",
+    "DATA_VERSION": 3,
+    "RECORD_STATUS": "INACTIVE"
+  },
+  {
+    "TERRITORY_ID": 70,
+    "TERRITORY_NAME": "Hawaii South",
+    "REGION": "Central",
+    "MANAGER_ID": 80,
+    "RECORD_TIMESTAMP": "2025-09-10T14:16:29.708676",
+    "DATA_VERSION": 4,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 101,
+    "TERRITORY_NAME": "Washington Metro",
+    "REGION": "East",
+    "MANAGER_ID": 89,
+    "RECORD_TIMESTAMP": "2025-09-10T14:59:29.708685",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 102,
+    "TERRITORY_NAME": "South Dakota Valley",
+    "REGION": "Central",
+    "MANAGER_ID": 38,
+    "RECORD_TIMESTAMP": "2025-09-10T15:32:29.708692",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 103,
+    "TERRITORY_NAME": "Utah Valley",
+    "REGION": "East",
+    "MANAGER_ID": 62,
+    "RECORD_TIMESTAMP": "2025-09-10T15:16:29.708699",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 104,
+    "TERRITORY_NAME": "Arizona Valley",
+    "REGION": "South",
+    "MANAGER_ID": 7,
+    "RECORD_TIMESTAMP": "2025-09-10T15:36:29.708706",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 105,
+    "TERRITORY_NAME": "Missouri South",
+    "REGION": "South",
+    "MANAGER_ID": 75,
+    "RECORD_TIMESTAMP": "2025-09-10T14:52:29.708713",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 106,
+    "TERRITORY_NAME": "California Metro",
+    "REGION": "Central",
+    "MANAGER_ID": 46,
+    "RECORD_TIMESTAMP": "2025-09-10T14:19:29.708720",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 107,
+    "TERRITORY_NAME": "Arkansas Metro",
+    "REGION": "West",
+    "MANAGER_ID": 73,
+    "RECORD_TIMESTAMP": "2025-09-10T14:27:29.708727",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 108,
+    "TERRITORY_NAME": "North Carolina Metro",
+    "REGION": "South",
+    "MANAGER_ID": 34,
+    "RECORD_TIMESTAMP": "2025-09-10T14:15:29.708734",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 109,
+    "TERRITORY_NAME": "Oregon Valley",
+    "REGION": "Central",
+    "MANAGER_ID": 63,
+    "RECORD_TIMESTAMP": "2025-09-10T13:59:29.708741",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "TERRITORY_ID": 110,
+    "TERRITORY_NAME": "Indiana Metro",
+    "REGION": "South",
+    "MANAGER_ID": 98,
+    "RECORD_TIMESTAMP": "2025-09-10T14:46:29.708748",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  }
+]

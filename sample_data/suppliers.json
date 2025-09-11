@@ -1,0 +1,1002 @@
+[
+  {
+    "SUPPLIER_ID": 1,
+    "SUPPLIER_NAME": "Ford-Wilson",
+    "CONTACT_EMAIL": "delacruzbrandy@jones.biz",
+    "CONTACT_PHONE": "346.902.2356x97252",
+    "ADDRESS": "0074 Kathleen Extension, South Kristen, WI 12040",
+    "RECORD_TIMESTAMP": "2025-08-31T15:50:53.478262",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 2,
+    "SUPPLIER_NAME": "Mendez Ltd",
+    "CONTACT_EMAIL": "epowell@smith-ferguson.com",
+    "CONTACT_PHONE": "6584300335",
+    "ADDRESS": "10447 Hamilton Spur Apt. 575, East Stacy, PW 53374",
+    "RECORD_TIMESTAMP": "2025-08-26T15:50:53.478660",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 3,
+    "SUPPLIER_NAME": "Perez Ltd",
+    "CONTACT_EMAIL": "jasonjohnson@jackson.com",
+    "CONTACT_PHONE": "(848)390-9010x0167",
+    "ADDRESS": "230 Fisher Courts Suite 992, Rivasville, NY 94711",
+    "RECORD_TIMESTAMP": "2025-08-24T15:50:53.479149",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 4,
+    "SUPPLIER_NAME": "Wilson, Wilson and Rodriguez",
+    "CONTACT_EMAIL": "chelseastrickland@dudley.com",
+    "CONTACT_PHONE": "3873375300",
+    "ADDRESS": "18114 Stephen Hill Suite 701, Port Benjamin, LA 47715",
+    "RECORD_TIMESTAMP": "2025-08-21T15:50:53.479708",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 5,
+    "SUPPLIER_NAME": "Edwards, Rodgers and Davis",
+    "CONTACT_EMAIL": "smithdevon@jackson.org",
+    "CONTACT_PHONE": "815-452-1667x467",
+    "ADDRESS": "16979 White Light, Cherylberg, NJ 64480",
+    "RECORD_TIMESTAMP": "2025-08-27T15:50:53.480273",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 6,
+    "SUPPLIER_NAME": "Clay Group",
+    "CONTACT_EMAIL": "browndiana@bush.net",
+    "CONTACT_PHONE": "001-499-235-8891x63756",
+    "ADDRESS": "772 Karen Islands, West Tara, AR 66945",
+    "RECORD_TIMESTAMP": "2025-09-06T15:50:53.480617",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 7,
+    "SUPPLIER_NAME": "Pierce Group",
+    "CONTACT_EMAIL": "fmontoya@wallace-berry.com",
+    "CONTACT_PHONE": "375.617.0166x0880",
+    "ADDRESS": "755 Lisa Vista, Riverafort, VT 86637",
+    "RECORD_TIMESTAMP": "2025-08-15T15:50:53.480995",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 8,
+    "SUPPLIER_NAME": "Baldwin-Wilson",
+    "CONTACT_EMAIL": "aaronkelly@brandt.com",
+    "CONTACT_PHONE": "5273261493",
+    "ADDRESS": "USCGC Lewis, FPO AE 94451",
+    "RECORD_TIMESTAMP": "2025-08-18T15:50:53.481449",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 9,
+    "SUPPLIER_NAME": "Rodriguez-Perry",
+    "CONTACT_EMAIL": "bartonshannon@lawrence.com",
+    "CONTACT_PHONE": "708.869.7829x22169",
+    "ADDRESS": "6547 Devon Rapids, Meganside, VI 41645",
+    "RECORD_TIMESTAMP": "2025-09-06T15:50:53.481951",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 10,
+    "SUPPLIER_NAME": "Doyle, Spencer and Robinson",
+    "CONTACT_EMAIL": "claudiaroberts@morse-anderson.com",
+    "CONTACT_PHONE": "385.215.8799x68460",
+    "ADDRESS": "034 Tonya Springs, Dwayneton, UT 39185",
+    "RECORD_TIMESTAMP": "2025-08-13T15:50:53.482456",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 11,
+    "SUPPLIER_NAME": "Molina Inc",
+    "CONTACT_EMAIL": "lisa19@stevenson.net",
+    "CONTACT_PHONE": "(538)940-6665x8004",
+    "ADDRESS": "893 Kelly Fall Apt. 228, South Billyview, OH 35135",
+    "RECORD_TIMESTAMP": "2025-08-20T15:50:53.482870",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 12,
+    "SUPPLIER_NAME": "Martin LLC",
+    "CONTACT_EMAIL": "riverajenna@williams.org",
+    "CONTACT_PHONE": "5944798515",
+    "ADDRESS": "8861 Walker Forest, Markport, IL 99153",
+    "RECORD_TIMESTAMP": "2025-08-20T15:50:53.483226",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 13,
+    "SUPPLIER_NAME": "Moreno, Barajas and Colon",
+    "CONTACT_EMAIL": "wilsonmichael@conway.org",
+    "CONTACT_PHONE": "205.761.6484",
+    "ADDRESS": "0435 Stacy Expressway Apt. 133, Houstonborough, ND 92610",
+    "RECORD_TIMESTAMP": "2025-08-12T15:50:53.483693",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 14,
+    "SUPPLIER_NAME": "Rowe, Lucas and Case",
+    "CONTACT_EMAIL": "andrewlove@miller.com",
+    "CONTACT_PHONE": "281-893-4667x665",
+    "ADDRESS": "919 Jaclyn Cliffs, Sarahville, LA 90400",
+    "RECORD_TIMESTAMP": "2025-08-16T15:50:53.484136",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 15,
+    "SUPPLIER_NAME": "Obrien-Campbell",
+    "CONTACT_EMAIL": "qjames@wells.com",
+    "CONTACT_PHONE": "(468)342-4508",
+    "ADDRESS": "814 Kaitlin Stream Suite 368, East Jack, RI 33628",
+    "RECORD_TIMESTAMP": "2025-08-23T15:50:53.484501",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 16,
+    "SUPPLIER_NAME": "Wilson Ltd",
+    "CONTACT_EMAIL": "yorksarah@murray.com",
+    "CONTACT_PHONE": "313-597-5523x149",
+    "ADDRESS": "9492 Aguirre Meadow Apt. 053, Lake Jodi, NE 36765",
+    "RECORD_TIMESTAMP": "2025-08-17T15:50:53.484968",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 17,
+    "SUPPLIER_NAME": "Taylor-Quinn",
+    "CONTACT_EMAIL": "wford@tucker-rodriguez.org",
+    "CONTACT_PHONE": "242-883-4110",
+    "ADDRESS": "84887 Michael Fork, Dennishaven, NY 12370",
+    "RECORD_TIMESTAMP": "2025-08-13T15:50:53.485374",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 18,
+    "SUPPLIER_NAME": "Cox-Smith",
+    "CONTACT_EMAIL": "melaniedrake@sutton.com",
+    "CONTACT_PHONE": "(599)327-5037",
+    "ADDRESS": "38567 Keith Canyon, Dakotahaven, SC 36348",
+    "RECORD_TIMESTAMP": "2025-09-03T15:50:53.485881",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 19,
+    "SUPPLIER_NAME": "Baker, Stephens and Thompson",
+    "CONTACT_EMAIL": "pdiaz@black.com",
+    "CONTACT_PHONE": "665.557.7908x27231",
+    "ADDRESS": "9136 Cortez Orchard, Mendozashire, GA 85338",
+    "RECORD_TIMESTAMP": "2025-08-27T15:50:53.486529",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 20,
+    "SUPPLIER_NAME": "Johnson-Williams",
+    "CONTACT_EMAIL": "dennishunt@thomas.net",
+    "CONTACT_PHONE": "(899)404-1379x7723",
+    "ADDRESS": "842 Nielsen Ranch, East Nicholasberg, CT 02671",
+    "RECORD_TIMESTAMP": "2025-08-26T15:50:53.487090",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 21,
+    "SUPPLIER_NAME": "Mills PLC",
+    "CONTACT_EMAIL": "mserrano@thompson.org",
+    "CONTACT_PHONE": "2888117298",
+    "ADDRESS": "86376 Chapman Streets Apt. 624, Cannonland, LA 78920",
+    "RECORD_TIMESTAMP": "2025-08-12T15:50:53.487536",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 22,
+    "SUPPLIER_NAME": "Ortiz, Lopez and Fletcher",
+    "CONTACT_EMAIL": "lanedavid@brooks.com",
+    "CONTACT_PHONE": "(851)526-9448x69594",
+    "ADDRESS": "58874 Lane Trail Suite 213, Loganburgh, CT 28610",
+    "RECORD_TIMESTAMP": "2025-09-02T15:50:53.488094",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 23,
+    "SUPPLIER_NAME": "Morales, Morgan and Pierce",
+    "CONTACT_EMAIL": "martintamara@brock.info",
+    "CONTACT_PHONE": "+1-661-214-3519x066",
+    "ADDRESS": "USNS Bowman, FPO AA 01904",
+    "RECORD_TIMESTAMP": "2025-08-27T15:50:53.488540",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 24,
+    "SUPPLIER_NAME": "Jefferson PLC",
+    "CONTACT_EMAIL": "james98@hale.com",
+    "CONTACT_PHONE": "502.214.6566",
+    "ADDRESS": "84895 Richmond Harbor, New Sylvia, NH 53448",
+    "RECORD_TIMESTAMP": "2025-08-30T15:50:53.488975",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 25,
+    "SUPPLIER_NAME": "Smith, Thompson and Hunter",
+    "CONTACT_EMAIL": "gordonmatthew@pratt.net",
+    "CONTACT_PHONE": "001-947-269-7357",
+    "ADDRESS": "63356 Black Branch Suite 341, Nunezmouth, CA 73187",
+    "RECORD_TIMESTAMP": "2025-08-14T15:50:53.489474",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 26,
+    "SUPPLIER_NAME": "Woods LLC",
+    "CONTACT_EMAIL": "patriciaadams@vega.com",
+    "CONTACT_PHONE": "434.333.3395",
+    "ADDRESS": "790 Melanie Landing, Travisshire, VI 36510",
+    "RECORD_TIMESTAMP": "2025-08-26T15:50:53.489925",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 27,
+    "SUPPLIER_NAME": "White-Duran",
+    "CONTACT_EMAIL": "raymond92@fox.info",
+    "CONTACT_PHONE": "+1-908-756-2718",
+    "ADDRESS": "369 Mark Ridge, Jacobview, IA 35812",
+    "RECORD_TIMESTAMP": "2025-08-28T15:50:53.490267",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 28,
+    "SUPPLIER_NAME": "Mullen-Cooper",
+    "CONTACT_EMAIL": "victorclark@goodwin.info",
+    "CONTACT_PHONE": "(892)893-1438",
+    "ADDRESS": "0267 Wendy Vista, Kristenport, KS 74181",
+    "RECORD_TIMESTAMP": "2025-08-27T15:50:53.490827",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 29,
+    "SUPPLIER_NAME": "Williams, Garcia and Martin",
+    "CONTACT_EMAIL": "lisawoods@davis.com",
+    "CONTACT_PHONE": "+1-584-450-6159",
+    "ADDRESS": "Unit 4558 Box 7716, DPO AP 38056",
+    "RECORD_TIMESTAMP": "2025-08-17T15:50:53.491355",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 30,
+    "SUPPLIER_NAME": "Welch-Thomas",
+    "CONTACT_EMAIL": "daniellemcfarland@welch-duncan.com",
+    "CONTACT_PHONE": "825-635-5449",
+    "ADDRESS": "987 Jackson Walk Apt. 234, East Garrettville, CT 08862",
+    "RECORD_TIMESTAMP": "2025-09-06T15:50:53.491862",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 31,
+    "SUPPLIER_NAME": "Kelley-Johnson",
+    "CONTACT_EMAIL": "fwarren@baker.com",
+    "CONTACT_PHONE": "+1-764-733-4722x8200",
+    "ADDRESS": "487 Tara Square Apt. 997, Millsside, ME 46005",
+    "RECORD_TIMESTAMP": "2025-08-30T15:50:53.492271",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 32,
+    "SUPPLIER_NAME": "Fernandez-Ballard",
+    "CONTACT_EMAIL": "aparker@moore-smith.net",
+    "CONTACT_PHONE": "001-525-247-8077x40649",
+    "ADDRESS": "8663 Jennifer Rue, Claytonbury, KS 10883",
+    "RECORD_TIMESTAMP": "2025-08-27T15:50:53.492740",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 33,
+    "SUPPLIER_NAME": "Garrett-Black",
+    "CONTACT_EMAIL": "justin84@lopez-jones.com",
+    "CONTACT_PHONE": "217-497-4973x5020",
+    "ADDRESS": "Unit 4427 Box 0312, DPO AE 65195",
+    "RECORD_TIMESTAMP": "2025-08-30T15:50:53.493078",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 34,
+    "SUPPLIER_NAME": "Peterson LLC",
+    "CONTACT_EMAIL": "dbolton@moody.com",
+    "CONTACT_PHONE": "8462187234",
+    "ADDRESS": "7303 Moss Court, South Paul, ME 42845",
+    "RECORD_TIMESTAMP": "2025-08-19T15:50:53.493510",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 35,
+    "SUPPLIER_NAME": "Soto Inc",
+    "CONTACT_EMAIL": "kingdanielle@ward.com",
+    "CONTACT_PHONE": "836-550-2491",
+    "ADDRESS": "792 Townsend Gateway, South Christopher, RI 44858",
+    "RECORD_TIMESTAMP": "2025-09-01T15:50:53.493870",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 36,
+    "SUPPLIER_NAME": "Brown, Kelly and Moore",
+    "CONTACT_EMAIL": "martinezjesse@kramer.info",
+    "CONTACT_PHONE": "001-930-565-2407x7848",
+    "ADDRESS": "7498 Casey Drives Suite 448, Shawnhaven, MS 96662",
+    "RECORD_TIMESTAMP": "2025-08-29T15:50:53.494435",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 37,
+    "SUPPLIER_NAME": "Andrade PLC",
+    "CONTACT_EMAIL": "kimberly35@brown.com",
+    "CONTACT_PHONE": "478.429.4565x11810",
+    "ADDRESS": "73109 Barrett Pine, Brandonbury, PA 94590",
+    "RECORD_TIMESTAMP": "2025-09-05T15:50:53.494852",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 38,
+    "SUPPLIER_NAME": "Smith and Sons",
+    "CONTACT_EMAIL": "fhebert@owen-brown.net",
+    "CONTACT_PHONE": "001-365-309-4801x4138",
+    "ADDRESS": "38392 Reese Trafficway Suite 761, Port Henry, MO 66652",
+    "RECORD_TIMESTAMP": "2025-08-19T15:50:53.495239",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 39,
+    "SUPPLIER_NAME": "Sandoval-Ferguson",
+    "CONTACT_EMAIL": "umahoney@frey.biz",
+    "CONTACT_PHONE": "001-859-239-8368x4577",
+    "ADDRESS": "082 Smith Forges Apt. 504, North Benjamin, MI 20962",
+    "RECORD_TIMESTAMP": "2025-08-11T15:50:53.495773",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 40,
+    "SUPPLIER_NAME": "Baker PLC",
+    "CONTACT_EMAIL": "jesseshepherd@duncan.com",
+    "CONTACT_PHONE": "001-315-272-7919x4096",
+    "ADDRESS": "PSC 5566, Box 1390, APO AP 83363",
+    "RECORD_TIMESTAMP": "2025-08-25T15:50:53.496072",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 41,
+    "SUPPLIER_NAME": "Brown-Warren",
+    "CONTACT_EMAIL": "amber25@wolfe.biz",
+    "CONTACT_PHONE": "399.981.3646x225",
+    "ADDRESS": "641 Shaw Trail, Port Dennis, OH 26467",
+    "RECORD_TIMESTAMP": "2025-09-07T15:50:53.496561",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 42,
+    "SUPPLIER_NAME": "Foster-Duncan",
+    "CONTACT_EMAIL": "johnadams@morris-glass.com",
+    "CONTACT_PHONE": "266-655-3559",
+    "ADDRESS": "792 Williams Viaduct Apt. 352, North Jodibury, RI 19857",
+    "RECORD_TIMESTAMP": "2025-09-07T15:50:53.497062",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 43,
+    "SUPPLIER_NAME": "Smith-Benson",
+    "CONTACT_EMAIL": "torresthomas@clark-medina.com",
+    "CONTACT_PHONE": "+1-284-687-9206",
+    "ADDRESS": "94070 Paul Groves Suite 104, Hallfurt, NY 93521",
+    "RECORD_TIMESTAMP": "2025-08-14T15:50:53.497540",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 44,
+    "SUPPLIER_NAME": "Mckee Group",
+    "CONTACT_EMAIL": "lopezvincent@castro-marquez.com",
+    "CONTACT_PHONE": "784.757.6205",
+    "ADDRESS": "404 Zamora Via, New Stacybury, FL 45299",
+    "RECORD_TIMESTAMP": "2025-09-07T15:50:53.497975",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 45,
+    "SUPPLIER_NAME": "Sandoval-Miller",
+    "CONTACT_EMAIL": "rmeyer@salas.org",
+    "CONTACT_PHONE": "(464)595-7823",
+    "ADDRESS": "826 Diana Port Apt. 518, East Lonnieberg, VA 04365",
+    "RECORD_TIMESTAMP": "2025-09-07T15:50:53.498448",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 46,
+    "SUPPLIER_NAME": "Beard-Gutierrez",
+    "CONTACT_EMAIL": "vturner@mahoney.com",
+    "CONTACT_PHONE": "(520)599-4999",
+    "ADDRESS": "1728 Joseph Landing, Port Paul, NJ 18525",
+    "RECORD_TIMESTAMP": "2025-08-27T15:50:53.498926",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 47,
+    "SUPPLIER_NAME": "Lee Inc",
+    "CONTACT_EMAIL": "aduran@clements-walker.com",
+    "CONTACT_PHONE": "001-831-727-9757x36609",
+    "ADDRESS": "177 Natalie Gardens, Terrellton, OH 51278",
+    "RECORD_TIMESTAMP": "2025-09-06T15:50:53.499313",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 48,
+    "SUPPLIER_NAME": "Hubbard, Estes and Lee",
+    "CONTACT_EMAIL": "tsanders@murray-henderson.org",
+    "CONTACT_PHONE": "4828771812",
+    "ADDRESS": "27937 John Square Apt. 111, Waltersland, NC 93205",
+    "RECORD_TIMESTAMP": "2025-08-17T15:50:53.499802",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 49,
+    "SUPPLIER_NAME": "Acosta-Hester",
+    "CONTACT_EMAIL": "nicholasjames@barr.com",
+    "CONTACT_PHONE": "(422)306-4474",
+    "ADDRESS": "PSC 3094, Box 0777, APO AP 01254",
+    "RECORD_TIMESTAMP": "2025-08-17T15:50:53.500111",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 50,
+    "SUPPLIER_NAME": "Andrade, Young and Chapman",
+    "CONTACT_EMAIL": "cchavez@burke.com",
+    "CONTACT_PHONE": "+1-749-283-0220",
+    "ADDRESS": "994 Knapp Causeway, South Victoriaburgh, TX 37775",
+    "RECORD_TIMESTAMP": "2025-08-29T15:50:53.500560",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 51,
+    "SUPPLIER_NAME": "Guerrero, Graves and Armstrong",
+    "CONTACT_EMAIL": "tammycurry@huynh-davis.com",
+    "CONTACT_PHONE": "856-516-8147x21458",
+    "ADDRESS": "98179 Simmons Vista, Jordanshire, RI 46881",
+    "RECORD_TIMESTAMP": "2025-08-15T15:50:53.501081",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 52,
+    "SUPPLIER_NAME": "Mendez Group",
+    "CONTACT_EMAIL": "lvasquez@hall.com",
+    "CONTACT_PHONE": "7715396605",
+    "ADDRESS": "441 Evans Plaza, Katieville, TX 44185",
+    "RECORD_TIMESTAMP": "2025-09-05T15:50:53.501503",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 53,
+    "SUPPLIER_NAME": "Foster-Carroll",
+    "CONTACT_EMAIL": "collierjames@nielsen-mendoza.info",
+    "CONTACT_PHONE": "2276278576",
+    "ADDRESS": "803 Marsh Underpass Suite 124, West Tonyaside, MP 22254",
+    "RECORD_TIMESTAMP": "2025-08-23T15:50:53.501971",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 54,
+    "SUPPLIER_NAME": "Obrien, Lopez and Wilson",
+    "CONTACT_EMAIL": "janet50@gutierrez-crawford.com",
+    "CONTACT_PHONE": "(974)238-4215x031",
+    "ADDRESS": "57845 Kayla Courts, East Jenny, NH 51302",
+    "RECORD_TIMESTAMP": "2025-09-08T15:50:53.502425",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 55,
+    "SUPPLIER_NAME": "Hancock, Wilson and Collins",
+    "CONTACT_EMAIL": "mcdanielbrooke@cook.com",
+    "CONTACT_PHONE": "340.694.3533x44857",
+    "ADDRESS": "09881 Amy Plaza Suite 424, East Charles, RI 44900",
+    "RECORD_TIMESTAMP": "2025-08-22T15:50:53.502881",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 56,
+    "SUPPLIER_NAME": "Wallace, Anderson and Ruiz",
+    "CONTACT_EMAIL": "rodriguezbrian@myers-bush.org",
+    "CONTACT_PHONE": "+1-979-354-5381x7921",
+    "ADDRESS": "3329 Durham Lock Apt. 557, Johnsonfort, DE 46565",
+    "RECORD_TIMESTAMP": "2025-08-23T15:50:53.503427",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 57,
+    "SUPPLIER_NAME": "Murray-Jackson",
+    "CONTACT_EMAIL": "cassandra28@sullivan.com",
+    "CONTACT_PHONE": "981-848-7696x39382",
+    "ADDRESS": "966 Stephens Freeway, Lake Elizabeth, WA 93812",
+    "RECORD_TIMESTAMP": "2025-08-23T15:50:53.503788",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 58,
+    "SUPPLIER_NAME": "Copeland, Wilson and Carlson",
+    "CONTACT_EMAIL": "angela72@blanchard-jones.com",
+    "CONTACT_PHONE": "+1-696-857-0132x90227",
+    "ADDRESS": "35494 Robbins Key Apt. 909, Abbottport, AR 48895",
+    "RECORD_TIMESTAMP": "2025-08-30T15:50:53.504417",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 59,
+    "SUPPLIER_NAME": "Faulkner, Smith and Castro",
+    "CONTACT_EMAIL": "daniel40@reynolds.biz",
+    "CONTACT_PHONE": "+1-856-766-6832x7238",
+    "ADDRESS": "2201 Douglas Oval, Proctorberg, CO 18486",
+    "RECORD_TIMESTAMP": "2025-08-19T15:50:53.504868",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 60,
+    "SUPPLIER_NAME": "Shaffer, Dalton and English",
+    "CONTACT_EMAIL": "dhanson@coleman.com",
+    "CONTACT_PHONE": "(869)709-7384",
+    "ADDRESS": "751 Nixon Common, Lake Jessica, PR 98881",
+    "RECORD_TIMESTAMP": "2025-09-06T15:50:53.505435",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 61,
+    "SUPPLIER_NAME": "Marshall-Miller",
+    "CONTACT_EMAIL": "sanchezcrystal@horne.org",
+    "CONTACT_PHONE": "790-658-0778x7956",
+    "ADDRESS": "949 Brown Mountains, New Brett, LA 97150",
+    "RECORD_TIMESTAMP": "2025-08-27T15:50:53.505955",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 62,
+    "SUPPLIER_NAME": "Johnson, Washington and Martinez",
+    "CONTACT_EMAIL": "yorkjoshua@gilbert.com",
+    "CONTACT_PHONE": "6195292752",
+    "ADDRESS": "1292 Mullins Loop, Youngmouth, VA 84069",
+    "RECORD_TIMESTAMP": "2025-08-29T15:50:53.506436",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 63,
+    "SUPPLIER_NAME": "Clark Ltd",
+    "CONTACT_EMAIL": "brian41@jackson.info",
+    "CONTACT_PHONE": "978-836-6742x8604",
+    "ADDRESS": "85694 Nelson Unions, West Destinyfurt, NH 89012",
+    "RECORD_TIMESTAMP": "2025-08-13T15:50:53.506750",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 64,
+    "SUPPLIER_NAME": "Allen, Powers and Townsend",
+    "CONTACT_EMAIL": "erica25@smith.biz",
+    "CONTACT_PHONE": "281-275-3443",
+    "ADDRESS": "391 Christopher Rapids, South Diana, MH 85423",
+    "RECORD_TIMESTAMP": "2025-08-19T15:50:53.507246",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 65,
+    "SUPPLIER_NAME": "Pratt, Lopez and Rodriguez",
+    "CONTACT_EMAIL": "jonowens@fowler.biz",
+    "CONTACT_PHONE": "001-654-421-4066x504",
+    "ADDRESS": "96271 Amber Meadows Apt. 917, Dakotaland, CA 75388",
+    "RECORD_TIMESTAMP": "2025-08-16T15:50:53.507732",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 66,
+    "SUPPLIER_NAME": "King, Griffin and Mosley",
+    "CONTACT_EMAIL": "denisesmith@ortega.com",
+    "CONTACT_PHONE": "001-556-290-8776x618",
+    "ADDRESS": "98554 Brown Rue Apt. 585, Port Steveport, SD 27124",
+    "RECORD_TIMESTAMP": "2025-08-27T15:50:53.508224",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 67,
+    "SUPPLIER_NAME": "Spencer Group",
+    "CONTACT_EMAIL": "kentprice@mccoy.info",
+    "CONTACT_PHONE": "973-820-3093",
+    "ADDRESS": "8700 Brown Turnpike Apt. 613, Bentleyside, FL 97632",
+    "RECORD_TIMESTAMP": "2025-08-13T15:50:53.508623",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 68,
+    "SUPPLIER_NAME": "Hall, Jones and Moss",
+    "CONTACT_EMAIL": "evaldez@williams.com",
+    "CONTACT_PHONE": "+1-504-317-9291x1179",
+    "ADDRESS": "6519 Marc Underpass Apt. 092, Bryanview, FL 99794",
+    "RECORD_TIMESTAMP": "2025-08-11T15:50:53.509314",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 69,
+    "SUPPLIER_NAME": "Jackson-Wood",
+    "CONTACT_EMAIL": "samuelfrost@anderson.org",
+    "CONTACT_PHONE": "(420)571-0021x9467",
+    "ADDRESS": "763 Cheryl Camp Apt. 791, Michaeltown, OH 31386",
+    "RECORD_TIMESTAMP": "2025-08-17T15:50:53.509723",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 70,
+    "SUPPLIER_NAME": "Wilson PLC",
+    "CONTACT_EMAIL": "montgomerymichelle@romero.com",
+    "CONTACT_PHONE": "603-512-7722x005",
+    "ADDRESS": "701 Sara Fall Apt. 078, North Pattymouth, OR 76491",
+    "RECORD_TIMESTAMP": "2025-09-08T15:50:53.510178",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 71,
+    "SUPPLIER_NAME": "Barnes-Burgess",
+    "CONTACT_EMAIL": "jerry15@garcia.biz",
+    "CONTACT_PHONE": "463.517.9706",
+    "ADDRESS": "PSC 7265, Box 2735, APO AA 27005",
+    "RECORD_TIMESTAMP": "2025-08-31T15:50:53.510437",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 72,
+    "SUPPLIER_NAME": "Martinez-Schwartz",
+    "CONTACT_EMAIL": "ramirezdaniel@ellis-jackson.com",
+    "CONTACT_PHONE": "349.829.2983",
+    "ADDRESS": "97740 Fitzgerald Gateway Apt. 569, New Sophia, PW 75697",
+    "RECORD_TIMESTAMP": "2025-08-21T15:50:53.510906",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 73,
+    "SUPPLIER_NAME": "Butler Inc",
+    "CONTACT_EMAIL": "esparzajessica@johnson.com",
+    "CONTACT_PHONE": "373.218.0632x543",
+    "ADDRESS": "79907 Ingram Well Suite 257, Port Courtneyfurt, MH 91039",
+    "RECORD_TIMESTAMP": "2025-08-31T15:50:53.511383",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 74,
+    "SUPPLIER_NAME": "Schmidt-Phillips",
+    "CONTACT_EMAIL": "helen98@norton.com",
+    "CONTACT_PHONE": "001-408-350-1657x9055",
+    "ADDRESS": "53817 Karen Trace, West Michael, KY 66504",
+    "RECORD_TIMESTAMP": "2025-08-29T15:50:53.511827",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 75,
+    "SUPPLIER_NAME": "Henderson, Brown and Watson",
+    "CONTACT_EMAIL": "htucker@harrison.net",
+    "CONTACT_PHONE": "379-451-3711x6241",
+    "ADDRESS": "2380 Butler Springs, South Michael, NV 97194",
+    "RECORD_TIMESTAMP": "2025-09-06T15:50:53.512259",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 76,
+    "SUPPLIER_NAME": "Smith, Lopez and Johnson",
+    "CONTACT_EMAIL": "marystone@jenkins-cooper.com",
+    "CONTACT_PHONE": "998.787.7492x4243",
+    "ADDRESS": "Unit 0254 Box 7292, DPO AP 70666",
+    "RECORD_TIMESTAMP": "2025-08-22T15:50:53.512672",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 77,
+    "SUPPLIER_NAME": "White-Thompson",
+    "CONTACT_EMAIL": "evanwilson@andrews-alexander.com",
+    "CONTACT_PHONE": "(438)605-5257",
+    "ADDRESS": "7275 Adam Streets, Deborahport, NJ 38489",
+    "RECORD_TIMESTAMP": "2025-08-24T15:50:53.513114",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 78,
+    "SUPPLIER_NAME": "Estrada, Marsh and Chandler",
+    "CONTACT_EMAIL": "hmorgan@mendoza.com",
+    "CONTACT_PHONE": "506-693-7515x0939",
+    "ADDRESS": "718 Lee Island, Lake Michaelberg, VT 56552",
+    "RECORD_TIMESTAMP": "2025-09-03T15:50:53.513643",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 79,
+    "SUPPLIER_NAME": "Hughes-Smith",
+    "CONTACT_EMAIL": "michael78@lewis.biz",
+    "CONTACT_PHONE": "942.766.2991x234",
+    "ADDRESS": "06462 Page Throughway Apt. 326, Angelaton, GU 40083",
+    "RECORD_TIMESTAMP": "2025-09-05T15:50:53.514136",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 80,
+    "SUPPLIER_NAME": "Torres, Hansen and Ford",
+    "CONTACT_EMAIL": "moodyeric@blanchard-flowers.info",
+    "CONTACT_PHONE": "946-327-3014",
+    "ADDRESS": "796 Burton Mountains Apt. 589, Port Jordanshire, AR 19655",
+    "RECORD_TIMESTAMP": "2025-08-19T15:50:53.514752",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 81,
+    "SUPPLIER_NAME": "Murray-Steele",
+    "CONTACT_EMAIL": "frank45@fields-friedman.com",
+    "CONTACT_PHONE": "648-618-3219x2855",
+    "ADDRESS": "89520 April Landing Suite 652, East Ericbury, MP 25197",
+    "RECORD_TIMESTAMP": "2025-08-25T15:50:53.515176",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 82,
+    "SUPPLIER_NAME": "Austin, Guerra and Fox",
+    "CONTACT_EMAIL": "butlersabrina@fuentes.info",
+    "CONTACT_PHONE": "(545)427-9852x401",
+    "ADDRESS": "342 David Common, Vazquezville, CA 02965",
+    "RECORD_TIMESTAMP": "2025-09-02T15:50:53.515660",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 83,
+    "SUPPLIER_NAME": "Todd-Williams",
+    "CONTACT_EMAIL": "johnsondonna@brown.com",
+    "CONTACT_PHONE": "601-719-3932x5012",
+    "ADDRESS": "911 Allison Stravenue, West George, WV 70903",
+    "RECORD_TIMESTAMP": "2025-08-13T15:50:53.516177",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 84,
+    "SUPPLIER_NAME": "Beltran Inc",
+    "CONTACT_EMAIL": "samanthayork@richardson-lawrence.info",
+    "CONTACT_PHONE": "+1-312-456-6383x61517",
+    "ADDRESS": "480 Mark Crescent Suite 479, Gloriamouth, IN 73103",
+    "RECORD_TIMESTAMP": "2025-09-06T15:50:53.516602",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 85,
+    "SUPPLIER_NAME": "Roberts-Wyatt",
+    "CONTACT_EMAIL": "melissajacobson@crosby-richardson.com",
+    "CONTACT_PHONE": "+1-371-767-8112x66912",
+    "ADDRESS": "Unit 5396 Box 1367, DPO AA 94020",
+    "RECORD_TIMESTAMP": "2025-08-29T15:50:53.516982",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 86,
+    "SUPPLIER_NAME": "Wheeler, Avila and Owen",
+    "CONTACT_EMAIL": "qkelly@clements.com",
+    "CONTACT_PHONE": "001-271-414-7732x01017",
+    "ADDRESS": "49911 Sparks Flats Suite 778, Amyside, ND 02817",
+    "RECORD_TIMESTAMP": "2025-08-13T15:50:53.517560",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 87,
+    "SUPPLIER_NAME": "Ewing Inc",
+    "CONTACT_EMAIL": "ycole@stevens-johnson.net",
+    "CONTACT_PHONE": "+1-942-976-2467x19788",
+    "ADDRESS": "064 Garza Lane, Katieport, MD 08551",
+    "RECORD_TIMESTAMP": "2025-08-23T15:50:53.517955",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 88,
+    "SUPPLIER_NAME": "Garza and Sons",
+    "CONTACT_EMAIL": "michael90@peterson.com",
+    "CONTACT_PHONE": "(250)733-3491x14152",
+    "ADDRESS": "864 Heather Radial Apt. 569, Morrisville, AS 64511",
+    "RECORD_TIMESTAMP": "2025-08-29T15:50:53.518395",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 89,
+    "SUPPLIER_NAME": "Vazquez and Sons",
+    "CONTACT_EMAIL": "tyler52@evans.com",
+    "CONTACT_PHONE": "+1-334-340-4963",
+    "ADDRESS": "98763 Flynn Run Suite 846, Jamesfurt, KS 82416",
+    "RECORD_TIMESTAMP": "2025-09-06T15:50:53.518815",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 90,
+    "SUPPLIER_NAME": "Chavez, Hines and White",
+    "CONTACT_EMAIL": "burtonzachary@ray.info",
+    "CONTACT_PHONE": "489-669-0835x723",
+    "ADDRESS": "1364 Lucas Glens Apt. 631, East Anthony, AS 41204",
+    "RECORD_TIMESTAMP": "2025-08-16T15:50:53.519290",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 91,
+    "SUPPLIER_NAME": "Washington-Esparza",
+    "CONTACT_EMAIL": "clucas@moore.com",
+    "CONTACT_PHONE": "348-820-7001x594",
+    "ADDRESS": "PSC 1623, Box 1981, APO AP 87561",
+    "RECORD_TIMESTAMP": "2025-09-01T15:50:53.519573",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 92,
+    "SUPPLIER_NAME": "Herring, Huynh and King",
+    "CONTACT_EMAIL": "youngdavid@murphy-silva.biz",
+    "CONTACT_PHONE": "001-236-932-1234x7649",
+    "ADDRESS": "8673 Suarez Drive, Thomasstad, GU 40893",
+    "RECORD_TIMESTAMP": "2025-08-22T15:50:53.520093",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 93,
+    "SUPPLIER_NAME": "Brewer PLC",
+    "CONTACT_EMAIL": "skinnereileen@vazquez.com",
+    "CONTACT_PHONE": "686-645-1837x606",
+    "ADDRESS": "3275 Mccormick Harbor, Port Kimberlyfort, NJ 97093",
+    "RECORD_TIMESTAMP": "2025-09-02T15:50:53.520467",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 94,
+    "SUPPLIER_NAME": "House-Cook",
+    "CONTACT_EMAIL": "gmcdowell@hale.com",
+    "CONTACT_PHONE": "(869)585-7002x720",
+    "ADDRESS": "112 Zachary Trafficway Apt. 965, Mendozaberg, KS 23239",
+    "RECORD_TIMESTAMP": "2025-08-15T15:50:53.520925",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 95,
+    "SUPPLIER_NAME": "Watkins, Murphy and Campbell",
+    "CONTACT_EMAIL": "perryhunter@duffy-wilkerson.com",
+    "CONTACT_PHONE": "4082931734",
+    "ADDRESS": "421 Jackson Port Apt. 086, Wilcoxfort, DE 29924",
+    "RECORD_TIMESTAMP": "2025-08-27T15:50:53.521492",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 96,
+    "SUPPLIER_NAME": "Harris, Shah and Li",
+    "CONTACT_EMAIL": "keith76@reynolds.org",
+    "CONTACT_PHONE": "643.562.6204",
+    "ADDRESS": "9710 Anderson Islands, Mcdanielfurt, VT 55982",
+    "RECORD_TIMESTAMP": "2025-08-13T15:50:53.521948",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 97,
+    "SUPPLIER_NAME": "Harper, Jones and Hawkins",
+    "CONTACT_EMAIL": "cookjimmy@barajas-crosby.org",
+    "CONTACT_PHONE": "001-200-448-9646x528",
+    "ADDRESS": "7215 Thomas Crescent Suite 027, Juliechester, LA 35001",
+    "RECORD_TIMESTAMP": "2025-08-23T15:50:53.522484",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 98,
+    "SUPPLIER_NAME": "Gallegos, Mcintosh and Black",
+    "CONTACT_EMAIL": "ustafford@vang.info",
+    "CONTACT_PHONE": "4329032074",
+    "ADDRESS": "75877 Rodriguez Stravenue Apt. 151, Port Justin, MP 22559",
+    "RECORD_TIMESTAMP": "2025-08-16T15:50:53.523021",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 99,
+    "SUPPLIER_NAME": "Hicks, Nelson and Macdonald",
+    "CONTACT_EMAIL": "brandybonilla@wang.com",
+    "CONTACT_PHONE": "001-371-950-4165x91520",
+    "ADDRESS": "4905 Diana Mission Suite 923, Port Dawnmouth, AS 07780",
+    "RECORD_TIMESTAMP": "2025-08-14T15:50:53.523591",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  },
+  {
+    "SUPPLIER_ID": 100,
+    "SUPPLIER_NAME": "Jones, Crane and James",
+    "CONTACT_EMAIL": "pscott@davis-phelps.com",
+    "CONTACT_PHONE": "(764)521-4764x9251",
+    "ADDRESS": "4996 Katherine Valleys Suite 926, Davishaven, MA 61256",
+    "RECORD_TIMESTAMP": "2025-08-21T15:50:53.524086",
+    "DATA_VERSION": 1,
+    "RECORD_STATUS": "ACTIVE"
+  }
+]
